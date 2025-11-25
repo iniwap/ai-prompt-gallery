@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "musk-in-the-park.jpg",
+    "prompt": "Elon Musk relaxing in a central park, golden hour lighting, photorealistic, 8k",
+    "tags": ["人物", "写实"]
+  },
+  {
+    "id": 2,
+    "image": "101.jpeg",
+    "prompt": "Cyberpunk city street at night, neon lights, rain reflections, futuristic cars",
+    "tags": ["赛博朋克", "风景"]
+  },
+  {
+    "id": 3,
+    "image": "105.jpeg",
+    "prompt": "A cute robot gardening, studio ghibli style, vibrant colors",
+    "tags": ["动漫", "可爱"]
+  },
+  {
+    "id": 4,
+    "image": "111.jpeg",
+    "prompt": "Abstract oil painting of a storm, chaotic brushstrokes, dark blue and gold",
+    "tags": ["艺术", "抽象"]
+  },
+  {
+    "id": 5,
+    "image": "124.jpeg",
+    "prompt": "Portrait of a warrior princess, intricate armor, fantasy concept art",
+    "tags": ["人物", "奇幻"]
+  },
+  {
+    "id": 6,
+    "image": "135.jpeg",
+    "prompt": "Minimalist logo design for a coffee shop, vector art, clean lines",
+    "tags": ["设计", "极简"]
+  },
+  {
+    "id": 7,
+    "image": "142.jpeg",
+    "prompt": "Isometric view of a tiny magical forest house, 3d render, blender",
+    "tags": ["3D", "建筑"]
+  },
+  {
+    "id": 8,
+    "image": "156.jpeg",
+    "prompt": "Space exploration, astronaut floating near a nebula, cinematic composition",
+    "tags": ["科幻", "太空"]
+  },
+  {
+    "id": 9,
+    "image": "172.jpeg",
+    "prompt": "Traditional chinese ink wash painting of mountains, misty",
+    "tags": ["艺术", "国风"]
+  },
+  {
+    "id": 10,
+    "image": "201.jpeg",
+    "prompt": "Macro photography of a dew drop on a leaf, bokeh background",
+    "tags": ["摄影", "自然"]
+  },
+  {
+    "id": 11,
+    "image": "220.jpeg",
+    "prompt": "Retro synthwave landscape, purple grid, sunset, 80s style",
+    "tags": ["复古", "风景"]
+  },
+  {
+    "id": 12,
+    "image": "255.jpeg",
+    "prompt": "Steampunk mechanical owl, detailed gears, brass textures",
+    "tags": ["奇幻", "机械"]
+  }
+]
