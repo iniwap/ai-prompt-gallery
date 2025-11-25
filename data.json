@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "hand-drawn-style-infographic-card.png",
+    "image": "hand-drawn-style-infographic-card.jpeg",
     "prompt": "创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=\"\"color:red\"\">「认知」</span>决定上限 <span style=\"\"color:red\"\">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。",
     "tags": [
       "illustration",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "image": "the-theory-of-relativity.png",
+    "image": "the-theory-of-relativity.jpeg",
     "prompt": "make a colorful page of manga describing the theory of relativity. add some humor",
     "tags": [
       "creative"
@@ -20,7 +20,7 @@
   },
   {
     "id": 3,
-    "image": "bee-science-city.png",
+    "image": "bee-science-city.jpeg",
     "prompt": "创建图像 3D Q版迷你风格，一座蜂巢结构的甜蜜科研基地，建筑由六边形透明蜂蜡舱堆叠而成，顶部悬浮滴落蜂蜜的太阳花洒水器，外墙爬满发光花粉藤蔓。侧面延伸出蜂蜡滑梯与蒲公英降落伞，入口是旋转的向日葵转门。透过蜂巢窗可见内部试管操作台、蜜糖吊灯和穿白大褂的蜜蜂博士。花园里有驾驶花粉摩托的甲虫快递员、举着放大镜的蝴蝶研究员，搭配蜂蜜长椅、雏菊花洒喷泉和动态萤火虫光标，整体笼罩琥珀色光晕，打造超现实昆虫科学城的萌趣生态。",
     "tags": [
       "architecture",
@@ -40,7 +40,7 @@
   },
   {
     "id": 5,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Act as a creative director at Rockstar Games. Create a fictional GTA VI character sheet in the exact same style as the official GTA VI promotional images.\n\nThe layout must be:\n\nA horizontal character sheet, with the character on the right, in a dynamic pose that reflects their personality.\nOn the left, include the following structured text:\nA small \"VI\" logo at the top left (mention it visually).\nThe character’s name in big bold text.\nA catchy slogan or tagline right below in a different bright color.\nA short backstory (3–5 lines) written in an ironic, street-smart, or playful tone — just like Rockstar’s tone of voice.\n\nUse the vibrant Vice City aesthetic with sunset lighting, neon accents, and cel-shaded comic style. The character’s clothing, action, and environment must reflect their archetype and background.\n\nLet me customize the following variables:\n\nArchetype: {your choice}\n\nGender: {your choice}\n\nSkin tone: {your choice}\n\nHairstyle: {your choice}\n\nEmotion : {your choice}\n\nOutfit: {your choice}\n\nWeapon or action: {your choice}\n\nBackground details: {your choice}\n\nGenerate a fictive name in tittle and a description in english\n\nFormat the final result like a finished in-game asset reveal. The vibe should be over-the-top, stylish, and full of personality — as if part of the real GTA VI world.\n\n(if the \"Your choice\" sections are not filled with personalized information, it's up to you to generate it randomly by yourself) generate the visual directly from now on",
     "tags": [
       "character",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "image": "6.png",
+    "image": "6.jpeg",
     "prompt": "{\n    \"base_image\": \"uploaded image\",\n    \"style_transfer\": {\n        \"visual_characteristics\": {\n            \"head_and_face\": {\n                \"material\": \"translucent resin with embedded starlight and glowing neural circuits\",\n                \"surface_effect\": \"mirror-gloss with gold filament veins and galaxy-like reflections\",\n                \"lighting\": \"dynamic cinematic rim lights with volumetric glow\"\n            },\n            \"body_structure\": {\n                \"texture\": \"high-polish white ceramic with embedded gold wiring\",\n                \"design\": \"futuristic like organic plating\",\n                \"highlight_elements\": \"subtle internal light flows mimicking synaptic energy\"\n            },\n            \"motion_effect\": {\n                \"visual_glitch\": \"subtle horizontal motion blur on head edges\",\n                \"energy_flow\": \"faint pulsing particle lights across body\"\n            },\n            \"background\": {\n                \"type\": \"neutral gradient or dark void\",\n                \"focus\": \"emphasize figure's luminous contrast\"\n            }\n        },\n        \"application_target\": \"Replace surface and material style of uploaded image with the characteristics described above, while preserving the original pose, structure, and composition of the target image.\"\n    }\n}",
     "tags": [
       "character",
@@ -60,7 +60,7 @@
   },
   {
     "id": 7,
-    "image": "7.png",
+    "image": "7.jpeg",
     "prompt": "An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.",
     "tags": [
       "portrait"
@@ -68,7 +68,7 @@
   },
   {
     "id": 8,
-    "image": "8.png",
+    "image": "8.jpeg",
     "prompt": "A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composition is friendly and magical, evoking a storybook charm. Include decorative details such as flowers, suns, clouds, trees or symbols to enhance the folk embroidery style.",
     "tags": [
       "illustration"
@@ -76,7 +76,7 @@
   },
   {
     "id": 9,
-    "image": "9.png",
+    "image": "9.jpeg",
     "prompt": "Using the uploaded image as the exact visual base, transform it into a hyper-realistic 3D object that retains the original shape and proportions of the logo only. Apply traditional Ottoman Iznik ceramic textures—featuring a warm white glazed base with delicate crackle lines, overlaid with vivid cobalt blue, turquoise, and bold red floral motifs such as tulips, carnations, and arabesque vines. The entire logo should be treated as a standalone porcelain sculpture with raised, hand-painted detailing and no background plate or tile structure. Ensure the decorative patterns elegantly follow the contours of the Bugatti logo, without altering its form. Render the object in a pure black background with Cinema 4D-style product lighting—highlighting realistic ceramic gloss, material depth, and subtle reflections. The final result should feel like a luxurious handcrafted ceramic reinterpretation, balancing heritage ornamentation with industrial branding.",
     "tags": [
       "branding",
@@ -87,7 +87,7 @@
   },
   {
     "id": 10,
-    "image": "10.png",
+    "image": "10.jpeg",
     "prompt": "Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”. Arrange the letters in a straight horizontal line. Each letter should be lumpy, melting, and oozing with bright, clashing flat colors like slime green, neon yellow, and hot pink. Each letter must be filled with only one solid flat color, with no gradients or transitions. All drips, melts, and oozes must be solid black with no shading or gradient. Make the design vector-friendly with clean, solid fills and bold black outlines. Add extra black and white eyeballs to make each letter feel like a weird mutated creature. Keep the composition chaotic but readable, like a mutant version of a Saturday morning cartoon. Black background. Square aspect ratio.",
     "tags": [
       "animal",
@@ -109,7 +109,7 @@
   },
   {
     "id": 12,
-    "image": "12.png",
+    "image": "12.jpeg",
     "prompt": "A minimalist and creative advertisement set on a clean white background.\nA real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.",
     "tags": [
       "branding",
@@ -119,7 +119,7 @@
   },
   {
     "id": 13,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Use the uploaded product image exactly as it is — do not alter, redraw, or reinterpret any part of it. Follow the guidelines below to create a high-quality, cinematic product presentation:\n\n• Keep the product fully intact — all text, labels, proportions, packaging, and colors must remain exactly the same.\n• Use natural or cinematic lighting to enhance the product’s appeal.\n• Place the product on a realistic surface that matches its category (e.g. wooden kitchen table for bread, bathroom shelf for skincare, desk for tech gadgets).\n• Add complementary props if appropriate (e.g. toast and coffee for bread, leaves and water droplets for skincare) — but do not let them touch or cover the product.\n• Use a softly blurred or ambient background (e.g. kitchen, morning window light, minimal interior).\n• Include soft shadows and subtle reflections for a grounded, photo-realistic effect.\n• Final result should feel premium, natural, and visually appealing — with 100% fidelity to the uploaded product image.",
     "tags": [
       "food",
@@ -130,7 +130,7 @@
   },
   {
     "id": 14,
-    "image": "14.png",
+    "image": "14.jpeg",
     "prompt": "A high-impact advertisement set against a clean, dark or high-contrast background. A [product] is centered, sharply lit and highly detailed. Around it, surreal, stylized visual [elements] illustrations explode outward (e.g., musicians, runners, curls, sunbursts), vibrant color palette, neon. bold uppercase ad copy at the top that reads [TEXT] and the brand logo at the bottom, modern Ad",
     "tags": [
       "branding",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "image": "15.png",
+    "image": "15.jpeg",
     "prompt": "A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden light pours through windows framed in the brand’s signature colors. A cozy seating area features playful, thematic furniture, and a circular rug inspired by [BRAND SYMBOL OR PRODUCT]. The coffee table bears the embossed logo, while a screen on the wall loops the phrase: “[BRAND SLOGAN].” A curated display of iconic items adds a sense of nostalgia. Subtle ambient lighting glows in brand tones, and a tray with signature treats sits near the window. It’s cozy, imaginative, and unmistakably [BRAND NAME]",
     "tags": [
       "branding",
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "image": "16.png",
+    "image": "16.jpeg",
     "prompt": "Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosphere is rich in texture, cinematic lighting, and surreal detail. A dreamlike vision of brand identity reimagined as a sci-fi utopia.",
     "tags": [
       "architecture",
@@ -162,7 +162,7 @@
   },
   {
     "id": 17,
-    "image": "17.png",
+    "image": "17.jpeg",
     "prompt": "A cinematic rendering of [subject] walking through a rain-soaked street at night, illuminated by moody neon lights, reflections dancing on wet pavement, and a hazy urban skyline in the background. The subject feels alive, caught between solitude and electricity.",
     "tags": [
       "futuristic",
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "image": "18.png",
+    "image": "18.jpeg",
     "prompt": "\"A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation",
     "tags": [
       "branding",
@@ -182,7 +182,7 @@
   },
   {
     "id": 19,
-    "image": "19.png",
+    "image": "19.jpeg",
     "prompt": "A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition",
     "tags": [
       "animal",
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "[Product by Brand] in a surreal, minimalist paper-glass style advertisement.\nThe product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.\nSoft cinematic lighting creates gentle contrast and ambient shadows.\nA single brand color subtly interacts with the scene through glow, mist, liquid, or foam.\nInclude a bold, elegant 4-word slogan near the product.\nThe brand logo appears subtly etched, glowing, or printed in a refined manner.\nVertical or square aspect ratio, ultra-detailed, poster-quality, visually soothing and conceptually refined.",
     "tags": [
       "branding",
@@ -223,7 +223,7 @@
   },
   {
     "id": 23,
-    "image": "23.png",
+    "image": "23.jpeg",
     "prompt": "A flat isometric digital illustration of [describe the subject: e.g., a modern workspace, a city block, a group of app icons, a sports shop], clean lines and geometric forms, bright pastel colors, simplified perspective with 3D depth, minimal shading, white background or light gradient. Style resembles modern vector infographics, ideal for UI, app design or web visuals.",
     "tags": [
       "illustration",
@@ -234,7 +234,7 @@
   },
   {
     "id": 24,
-    "image": "24.png",
+    "image": "24.jpeg",
     "prompt": "A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed against a soft light gray background. The product is sharply focused with soft studio lighting. The packaging design includes the official [FOOD BRAND] logo and reflects the brand’s colors and style. The product is sleek, glossy, and realistic, with high detail and elegant presentation. No food items, just the makeup product. Include only the makeup item in the shot. Modern aesthetic, luxury cosmetic branding",
     "tags": [
       "branding",
@@ -265,7 +265,7 @@
   },
   {
     "id": 27,
-    "image": "27.png",
+    "image": "27.jpeg",
     "prompt": "Create a image with 1:1 ratio\na dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand color parachute packaging their classic product, against blue sky and other blurry parachute packaging, white cloud, a small brand logo on top, a tiny slogan beneath it, cinematic day lighting, lens flare, dof, hdr",
     "tags": [
       "branding",
@@ -274,7 +274,7 @@
   },
   {
     "id": 28,
-    "image": "28.png",
+    "image": "28.jpeg",
     "prompt": "A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.",
     "tags": [
       "cartoon",
@@ -284,7 +284,7 @@
   },
   {
     "id": 29,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft",
     "tags": [
       "sculpture"
@@ -310,7 +310,7 @@
   },
   {
     "id": 32,
-    "image": "32.png",
+    "image": "32.jpeg",
     "prompt": "Create a bold, warped cartoon-style text design with two distinct layers. The top layer should say “SUPER GNARLY” in warped bubble letters with a melty, drippy texture, like ghost slime or goo. The letters should feel heavy and organic, with a slightly psychedelic or paranormal vibe. The bottom layer should say “SOCIETY” in much smaller, script-like or handwritten-style letters that tuck underneath or nestle between the larger title letters. Both layers should be solid white with thick black outlines. No gradients, shading, or texture. Layout should be playful and a little chaotic, but still readable. Vector friendly. Blue background. Square aspect ratio.",
     "tags": [
       "cartoon",
@@ -320,7 +320,7 @@
   },
   {
     "id": 33,
-    "image": "33.png",
+    "image": "33.jpeg",
     "prompt": "retexture the image attached in the following json aesthetic style:\n{\n  \"style\": \"Retro Pixel UI Icons\",\n  \"resolution\": \"low (32x32 or 48x48)\",\n  \"color_palette\": [\n    \"#F2F2F2\",  \n    \"#C0C0C0\",  \n    \"#000000\", \n    \"#FFFFFF\",  \n    \"#0000FF\",  \n    \"#00FF00\",  \n    \"#FFFF99\",  \n    \"#008080\" \n  ],\n  \"outline\": {\n    \"enabled\": true,\n    \"color\": \"#000000\",\n    \"thickness\": \"1px\"\n  },\n  \"shading\": {\n    \"method\": \"dithering\",\n    \"colors_used\": [\"base color\", \"highlight\", \"shadow\"],\n    \"pattern\": \"checkerboard or diagonal lines\"\n  },\n  \"lighting\": {\n    \"type\": \"flat\",\n    \"source\": \"top-left\",\n    \"highlight_color\": \"#FFFFFF\",\n    \"shadow_color\": \"#808080\"\n  },\n  \"background\": {\n    \"color\": \"#F2F2F2\",\n    \"type\": \"plain\",\n    \"transparency\": false\n  },\n  \"object_properties\": {\n    \"style\": \"pixel art\",\n    \"perspective\": \"isometric or front-facing\",\n    \"animation\": {\n      \"enabled\": false,\n      \"frame_style\": \"static pixel art\"\n    }\n  }\n}",
     "tags": [
       "pixel",
@@ -338,7 +338,7 @@
   },
   {
     "id": 35,
-    "image": "35.png",
+    "image": "35.jpeg",
     "prompt": "A high-resolution vertical Pixar-style 3D character illustration.\n\nMain character:  \nSalvador Dalí — depicted as a tall, slim, and slightly exaggerated Pixar-style 3D character.  \nWearing a classic blue shirt, yellow tie, high-waisted plaid trousers with suspenders, and leather shoes.  \nHis iconic long upturned mustache, slick black hair, sharply arched eyebrows, and slightly eccentric posture.  \nStands with chest out, one hand on hip, head tilted slightly back in his typical theatrical flair.\n\nBackground:  \nFlat, clean yellow background with subtle surface texture.  \nStrong sunlight from top-left casts a distinct and enlarged shadow on the wall behind him.\n\nKey Concept – Shadow as spiritual projection:  \nThe shadow cast behind him does **not** mirror his body shape.  \nInstead, it takes the form of one of his most iconic artworks —  \na surreal melted clock with long dripping arms, inspired by “The Persistence of Memory”.\n\nThe melted clock shadow is positioned diagonally, starting from his shoulder,  \nstretching wide and low across the yellow wall, surreal and fluid, yet unmistakably symbolic.\n\nThis shadow is **Dalí’s legacy made visible** — a symbolic extension of his identity through time, dream, and visual distortion.\n\nLighting & Rendering:  \nPixar-like rendering with detailed but stylized textures.  \nUse subtle filmic grain, soft shadows, and warm color grading.  \nSubtle sparkles or light speckles inside the shadow to evoke dreamlike texture.\n\nTypography (top-left corner):  \n“Salvador Dalí” in minimalist black sans-serif font, “Dalí” bolded.",
     "tags": [
       "character",
@@ -349,7 +349,7 @@
   },
   {
     "id": 36,
-    "image": "36.png",
+    "image": "36.jpeg",
     "prompt": "A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in sun-faded [color1] and weathered [color2]. Set into a cracked plaster wall, the irregular shapes and grout lines add a rustic, timeworn charm.",
     "tags": [
       "creative"
@@ -368,7 +368,7 @@
   },
   {
     "id": 38,
-    "image": "38.png",
+    "image": "38.jpeg",
     "prompt": "Hand-Carved Wooden Puppet (Czech Marionette Style)\n\nA hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling.",
     "tags": [
       "vehicle"
@@ -376,7 +376,7 @@
   },
   {
     "id": 39,
-    "image": "39.png",
+    "image": "39.jpeg",
     "prompt": "[SUBJECT] reinterpreted through Cyber Matrix Dreamscapes, where cascading streams of digital code form the immersive backdrop. Imbue the scene with radical neon [COLOR1] and luminous [COLOR2] accents to evoke a futuristic reality where art converges with algorithm",
     "tags": [
       "futuristic",
@@ -396,7 +396,7 @@
   },
   {
     "id": 41,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Transform the cartoon character from the reference image into a hyper-realistic human while maintaining their core attributes (clothing, hairstyle, facial expression, accessories, and proportions, age and so on). Create a photorealistic portrait",
     "tags": [
       "cartoon",
@@ -428,7 +428,7 @@
   },
   {
     "id": 44,
-    "image": "44.png",
+    "image": "44.jpeg",
     "prompt": "[SUBJECT] surrounded by an Enchanted Particle Bloom, with particles resembling magical flower petals or leaves. Employ soft, enchanting hues of [COLOR1] and [COLOR2] to create a sense of natural magic.",
     "tags": [
       "creative"
@@ -455,7 +455,7 @@
   },
   {
     "id": 47,
-    "image": "47.png",
+    "image": "47.jpeg",
     "prompt": "[SUBJECT] depicted in a Sepia-Toned Silent Film Scene, evoking the drama and expression of early cinema. Use muted [COLOR1] and [COLOR2] sepia tones to enhance the nostalgic atmosphere",
     "tags": [
       "landscape"
@@ -463,7 +463,7 @@
   },
   {
     "id": 48,
-    "image": "48.png",
+    "image": "48.jpeg",
     "prompt": "Transform this image into a realistic police mugshot.\nAdd a gray background with height markings, harsh frontal lighting, and a nameplate with the person's name and a case number.\nThe photo should look like an official FBI or police booking photo, vertical format (4:5), with a neutral expression and no accessories.",
     "tags": [
       "photography"
@@ -471,7 +471,7 @@
   },
   {
     "id": 49,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create a hyper-realistic image where [SHAPE] shape is formed by the magical parting of [wavy] blue ocean, with the [SHAPE] shape being a [COLOUR] empty land. The top view should show the water being pushed aside by an unseen force, creating the [SHAPE] with an ultra-thin line. The stark [COLOR] color of the [SHAPE] interior should contrast with the vibrant blue water around it, emphasizing the supernatural effect as if the water is being parted to reveal the [SHAPE] shape distinctly.",
     "tags": [
       "interior"
@@ -479,7 +479,7 @@
   },
   {
     "id": 50,
-    "image": "50.png",
+    "image": "50.jpeg",
     "prompt": "looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [very black background] around keyhole, sharp focus, photographic",
     "tags": [
       "fantasy",
@@ -488,7 +488,7 @@
   },
   {
     "id": 51,
-    "image": "51.png",
+    "image": "51.jpeg",
     "prompt": "bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition",
     "tags": [
       "3d",
@@ -543,7 +543,7 @@
   },
   {
     "id": 57,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a mano. El hilo debe parecer suave, esponjoso y de gran tamaño, con patrones visibles de tejido como bucles, giros y trenzas. Usa colores brillantes y saturados, estética cálida. Resalta la textura de las fibras, la suavidad del material y el acabado artesanal. Iluminación de estudio suave. Fondo blanco o crema limpio. El logo debe estar centrado y sin elementos adicionales. Cuadrado.",
     "tags": [
       "creative"
@@ -551,7 +551,7 @@
   },
   {
     "id": 58,
-    "image": "58.png",
+    "image": "58.jpeg",
     "prompt": "[SUBJECT] in a cinematic painting, battling amid crumbling ruins under a colossal blood moon — ambient sparks flying. Set in an ancient valley, illuminated by firelight and shadows. soft [COLOR1] and vibrant [COLOR2], mood intense and epic.",
     "tags": [
       "creative"
@@ -559,7 +559,7 @@
   },
   {
     "id": 59,
-    "image": "59.png",
+    "image": "59.jpeg",
     "prompt": "A humorous cartoon scene set inside a military training classroom, featuring a group of [Insect Name] soldiers sitting at desks, wearing tiny helmets and miniature combat gear. They listen attentively to their commander, who stands in front of a large board displaying a sketch of a threat to their existence — the enemy changes depending on the animal or insect. The commander explains the attack plan using a pointer, highlighting sensitive targets with red circles. Some soldiers take notes, others whisper tactical ideas to each other. The overall atmosphere blends seriousness with satire in an exaggerated cartoon style.",
     "tags": [
       "animal",
@@ -581,7 +581,7 @@
   },
   {
     "id": 61,
-    "image": "61.png",
+    "image": "61.jpeg",
     "prompt": "A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflects a completely different [SUBJECT 2]. Around them, small cracks spread through the air like fractures in invisible glass, warping the space itself.",
     "tags": [
       "creative"
@@ -611,7 +611,7 @@
   },
   {
     "id": 64,
-    "image": "64.png",
+    "image": "64.jpeg",
     "prompt": "A cave painting of a [subject], rendered with primitive ochres and charcoal lines on a rough stone wall. Smudged handprints, crude geometry, and flickering torchlight add a primal, ancient mood.",
     "tags": [
       "creative"
@@ -619,7 +619,7 @@
   },
   {
     "id": 65,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A photorealistic image of the word '[NAME]' spelled out using torn, highly crumpled pieces of white paper. Each letter is painted in bold [COLOR] on individual scraps, arranged loosely and unevenly, as if placed casually by hand, on a wooden table. The composition should convey a natural, handmade aesthetic with visible creases, shadows, and wood grain detail",
     "tags": [
       "paper-craft",
@@ -628,7 +628,7 @@
   },
   {
     "id": 66,
-    "image": "66.png",
+    "image": "66.jpeg",
     "prompt": "retexture the image attached based on the JSON aesthetic below\n{\n  \"style\": \"hyperrealistic 3D render\",\n  \"material\": \"high-gloss translucent rubber with iridescent coating\",\n  \"surface_texture\": \"fine-grain pebbling with micro-specular highlights\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"multi-point with rim and backlight\",\n    \"colors\": [\"electric blue\", \"magenta\", \"neon purple\", \"sunset orange\"],\n    \"glow_effect\": true,\n    \"chromatic_aberration\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"iridescent gradient\",\n    \"highlights\": \"white light core reflections\",\n    \"accent_edges\": \"black outlines with subtle glow\"\n  },\n  \"background\": {\n    \"color\": \"solid black\",\n    \"texture\": \"none\",\n    \"contrast\": \"extreme to enhance subject glow\"\n  },\n  \"camera\": {\n    \"angle\": \"straight-on center view\",\n    \"focus\": \"sharp foreground, no depth blur\",\n    \"lens\": \"macro with light distortion\"\n  },\n  \"post_processing\": {\n    \"glow\": true,\n    \"contrast_boost\": true,\n    \"color_grading\": \"vibrant spectrum\",\n    \"noise\": \"minimal\"\n  }\n}",
     "tags": [
       "minimalist",
@@ -648,7 +648,7 @@
   },
   {
     "id": 68,
-    "image": "68.png",
+    "image": "68.jpeg",
     "prompt": "A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).",
     "tags": [
       "futuristic",
@@ -657,7 +657,7 @@
   },
   {
     "id": 69,
-    "image": "69.png",
+    "image": "69.jpeg",
     "prompt": "A flat branded paper folds itself into the full 3D shape of a [insert product or item, e.g. “Coca-Cola bottle”, “Nike sneaker”, “Big Mac”], mid-motion. \n\nThe paper colors match the [insert brand name] brand’s signature palette and the natural colors of the item (e.g., [describe key colors or ingredients, like “red and white for Coca-Cola”, “brown, green, yellow for Big Mac”]).\n\nDramatic studio lighting, origami texture detail, soft gradient shadows. Stylized with Japanese minimalism and elegant negative space. The scene captures a clean, elevated transformation from flat brand identity into sculptural product form.",
     "tags": [
       "branding",
@@ -679,7 +679,7 @@
   },
   {
     "id": 71,
-    "image": "71.png",
+    "image": "71.jpeg",
     "prompt": "Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.",
     "tags": [
       "landscape"
@@ -687,7 +687,7 @@
   },
   {
     "id": 72,
-    "image": "72.png",
+    "image": "72.jpeg",
     "prompt": "A surreal oil painting of a [subject], executed in the style of early 20th-century dreamscapes. Melting shapes, floating forms, and swirling [color1] and [color2] brushstrokes create a dreamlike dissonance.",
     "tags": [
       "creative"
@@ -695,7 +695,7 @@
   },
   {
     "id": 73,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A highly realistic 3D render of the letter [A-Z] designed as a full-body fluffy monster. The letter shape itself is the creature’s body — no separate head or limbs. The eyes, mouth, and other monster features are embedded naturally into the letter form. The monster expresses a [mischievous / grumpy / shy / joyful / sleepy / surprised / confident] emotion through its eyes and mouth shape. The texture is dense, soft, and realistic fur, with subtle volume and shadow. The color palette is bold but clean — solid vibrant tones like mint, lilac, sky blue, or coral (avoid rainbow gradients). Studio lighting on a simple pastel background. No hats, no party props — just a minimal, high-quality character design with playful expression.",
     "tags": [
       "animal",
@@ -705,7 +705,7 @@
   },
   {
     "id": 74,
-    "image": "74.png",
+    "image": "74.jpeg",
     "prompt": "Tiny cute isometric [smiling - optional] [OBJECT] emoji, shape, soft lighting, soft pastel colors, [COLOR], 3d icon clay render, blender 3d, pastel background",
     "tags": [
       "3d",
@@ -715,7 +715,7 @@
   },
   {
     "id": 75,
-    "image": "75.png",
+    "image": "75.jpeg",
     "prompt": "Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Character B], captured in a [scene/action], inside a [thematic display case shape] with [material]. The background features [visual effects: debris, aura, lightning, scenery], dynamic pose. The title \"[custom phrase]\" is embossed at the top in [font/style], matching the tone. Lighting is [studio, cinematic, ambient], color palette of [main colors]. Designed in a collectible, stylized, viral-friendly aesthetic.",
     "tags": [
       "3d",
@@ -725,7 +725,7 @@
   },
   {
     "id": 76,
-    "image": "76.png",
+    "image": "76.jpeg",
     "prompt": "Highly dramatic and epic black and white manga-style illustration of [Your character and description].  Powerful, dynamic pose, exaggerated features emphasizing the intensity of the scene. Background with explosive energy bursts, lightning effects, and a whirlwind of debris",
     "tags": [
       "character",
@@ -745,7 +745,7 @@
   },
   {
     "id": 78,
-    "image": "78.png",
+    "image": "78.jpeg",
     "prompt": "Recreate this [insert emoji] using the parameters from the JSON provided.\n{\n  \"style\": \"Plushform Emoji\",\n  \"description\": \"Transform the emoji into a soft, realistic plush object with high-quality fabric and detailed construction. Do not anthropomorphize the emoji — avoid adding faces or cartoon features. Focus on accurate textures, natural forms, and subtle design to give the plush object character.\",\n  \"features\": {\n    \"shape\": \"matching the emoji's form, with soft, slightly rounded plush adaptation\",\n    \"texture\": \"realistic plush fabric with visible fiber detail and natural fabric folds\",\n    \"color\": \"faithful to the emoji's palette, using slightly muted, tactile tones\",\n    \"material\": \"stuffed toy fabric with visible stitching, seams, and high-quality finishing\",\n    \"background\": \"neutral or softly textured to emphasize the plush object's form\",\n    \"lighting\": \"soft professional studio lighting with subtle shadows and depth\"\n  },\n  \"examples\": [\n    \"👌 becomes a plush hand in the OK gesture, with realistic fabric folds and seams.\",\n    \"🎯 becomes a soft plush bullseye with layered fuzzy rings and slight dimensional padding.\",\n    \"🎁 becomes a cube-shaped plush box with fabric ribbon, visible stitching, and realistic fabric texture.\",\n    \"🌊 becomes a wave-shaped plush with curled foam tips, crafted in textured ocean blue fabrics.\"\n  ]\n}",
     "tags": [
       "cartoon",
@@ -776,7 +776,7 @@
   },
   {
     "id": 81,
-    "image": "81.png",
+    "image": "81.jpeg",
     "prompt": "A highly stylized and vibrant promotional image of a [INSTRUMENT] designed in the visual style of the [BRAND] brand — the instrument is reimagined with iconic colors, patterns, and aesthetic elements of the brand. Set in a dynamic, music-inspired environment, with glowing accents, product-style lighting, and joyful energy. Artistic fusion of music and design. 3D render look, high detail, vibrant colors, futuristic but playful.",
     "tags": [
       "branding",
@@ -787,7 +787,7 @@
   },
   {
     "id": 82,
-    "image": "82.png",
+    "image": "82.jpeg",
     "prompt": "A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outlined in glowing neon hues. Use vibrant [COLOR1] and [COLOR2] to create a serene yet electrifying botanical scene",
     "tags": [
       "illustration",
@@ -797,7 +797,7 @@
   },
   {
     "id": 83,
-    "image": "83.png",
+    "image": "83.jpeg",
     "prompt": "A bold vector logo design in glitch art style, featuring distorted typography with RGB color channel shifts, fragmented lines, misaligned edges, digital noise effects, and a cyberpunk aesthetic. The logo appears corrupted or hacked, as if captured from a malfunctioning screen. Use a black or dark background for contrast, neon or high-saturation color palette, and sharp angular forms.",
     "tags": [
       "futuristic",
@@ -827,7 +827,7 @@
   },
   {
     "id": 86,
-    "image": "86.png",
+    "image": "86.jpeg",
     "prompt": "Create image with 1:1 ratio A next-gen wearable ai [device type] blending Jony Ive–inspired refined minimalism with a new material and interaction language symbolizing the power ChatGPT. The device is crafted from translucent aerogel fused with polished ceramic titanium, feather-light yet futuristic.  No seams, buttons, or traditional UI. Photographed floating against a pure white background, with a soft, diffused, nearly shadowless studio light.",
     "tags": [
       "futuristic",
@@ -838,7 +838,7 @@
   },
   {
     "id": 87,
-    "image": "87.png",
+    "image": "87.jpeg",
     "prompt": "A realistic, cinematic photograph of a vintage [BRAND NAME] item being gently lifted from a dusty stack of old children's books in a dimly lit attic. The item is designed in classic [BRAND NAME] style—featuring authentic patterns, textures, or logos (e.g. monograms, embossing, or signature motifs relevant to the brand). It is partially opened to reveal a miniature, warmly lit classroom inspired by [COUNTRY] school interiors, complete with small regional-style desks, a chalkboard with delicate handwriting in [LANGUAGE], and traditional local details like shoes, posters, or flags. A paper airplane hovers mid-air. The lighting is moody and nostalgic, with soft shadows and golden highlights suggesting afternoon light filtering through attic beams. On the top book cover at the bottom of the image, the [BRAND NAME] logo is written in an elegant, fountain-pen calligraphy style—subtle, integrated into the scene, and not obscuring the main subject.",
     "tags": [
       "branding",
@@ -849,7 +849,7 @@
   },
   {
     "id": 88,
-    "image": "88.png",
+    "image": "88.jpeg",
     "prompt": "A highly detailed 3D isometric icon of the following object: [OBJECT]\n\nStyle: Airbnb 2024 icon language — miniature diorama / emoji-like object with crisp edges, realistic textures, and soft handcrafted realism.  \n\nMaterial: The object should clearly retains its fundamental qualities but look as if its made from a mixture of matte and plastic-like materials.  \n\nView: three-quarter front-left isometric view with a slight top-down angle.  \n\nLighting: soft neutral studio lighting from the top-left with subtle shadows and gentle gloss highlights.  \n\nColor palette: retain the fundamental colors from the object and include subtle gradients and no harsh contrasts.  \n\nBackground: clean white, no drop shadow or noise.  \n\nMood: minimal, charming, utilitarian, premium.  \n\nRendering: hyper-detailed, photorealistic object with depth and tactility, like a designer lifestyle emoji or miniature product model. \n\nOptional Add-on for Replication:  Use the attached photo as a reference for proportions and layout. Do not copy exactly — reinterpret it in the Airbnb icon aesthetic.",
     "tags": [
       "emoji",
@@ -860,7 +860,7 @@
   },
   {
     "id": 89,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Three different fantasy sailboats in the ocean, multiple scenes of beautiful aurora borealis and colorful moons with snowy mountains, a dreamy, fantasy landscape, in the style of digital art.",
     "tags": [
       "fantasy",
@@ -880,7 +880,7 @@
   },
   {
     "id": 91,
-    "image": "91.png",
+    "image": "91.jpeg",
     "prompt": "A kinetic sculpture of a [subject], made of interlocking metal rods and panels in brushed [color1] and oxidized [color2]. Suspended in motion, with rotating parts casting mechanical shadows on a concrete pedestal.",
     "tags": [
       "sculpture"
@@ -917,7 +917,7 @@
   },
   {
     "id": 95,
-    "image": "95.png",
+    "image": "95.jpeg",
     "prompt": "A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoes], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.",
     "tags": [
       "branding",
@@ -936,7 +936,7 @@
   },
   {
     "id": 97,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest building",
     "tags": [
       "architecture",
@@ -956,7 +956,7 @@
   },
   {
     "id": 99,
-    "image": "99.png",
+    "image": "99.jpeg",
     "prompt": "An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige cardboard box, with the lid being held open by two human hands. The interior of the box reveals a miniature landscape of [COUNTRY NAME], featuring iconic landmarks, terrain, buildings, rivers, vegetation, and crowds of tiny, detailed human figures. The diorama is filled with vibrant, geographically appropriate elements, all crafted in a tactile, toy-like style using matte 3D-printed textures with visible layer lines. At the top, the inside of the box lid displays the phrase “[COUNTRY NAME]” in large, colorful, raised plastic letters—each letter in a different bright color. The lighting is warm and cinematic, highlighting the textures and shadows to evoke a sense of realism and charm, as if the viewer is opening a magical miniature version of the natio",
     "tags": [
       "architecture",
@@ -967,7 +967,7 @@
   },
   {
     "id": 100,
-    "image": "100.png",
+    "image": "100.jpeg",
     "prompt": "Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.",
     "tags": [
       "branding",
@@ -988,7 +988,7 @@
   },
   {
     "id": 102,
-    "image": "102.png",
+    "image": "102.jpeg",
     "prompt": "Retexture the image attached based on the json below\n{\n  \"style\": \"C4D hyper-realistic 3D render\",\n  \"object_form\": \"detailed mechanical design\",\n  \"geometry\": {\n    \"shape\": \"sharp edges with smooth curves\",\n    \"scale\": \"real-world proportion\",\n    \"detailing\": \"high-poly mesh with intricate mechanical features\"\n  },\n  \"material\": {\n    \"base\": \"polished plastic and carbon fiber\",\n    \"texture\": \"fine surface variation with specular maps\",\n    \"finish\": \"high gloss with realistic reflections\"\n  },\n  \"design_elements\": {\n    \"decals\": \"subtle branding and panel lines\",\n    \"surface_effects\": \"anodized gradients, emissive lighting elements\",\n    \"aero_parts\": \"spoilers, splitters, and aggressive styling cues\"\n  },\n  \"color_scheme\": {\n    \"primary\": \"#0ae2c0\",\n    \"secondary\": \"#111111\",\n    \"accents\": [\"#ffffff\", \"#e00000\"],\n    \"reflections\": \"real-world HDRI light environment\",\n    \"background\": \"#ffffff\"\n  },\n  \"lighting\": {\n    \"type\": \"studio 3-point with HDRI\",\n    \"intensity\": \"balanced with key fill and rim lights\",\n    \"shadows\": \"soft, subtle contact shadow under object\",\n    \"highlights\": \"strong specular reflections on curves\"\n  },\n  \"rendering\": {\n    \"engine\": \"Cinema 4D Redshift or Octane\",\n    \"resolution\": \"ultra high-definition (4K+)\",\n    \"focus\": \"object-centered with floating illusion\",\n    \"background_blur\": \"none\"\n  },\n  \"composition\": {\n    \"layout\": \"centered in frame\",\n    \"object_count\": 1,\n    \"orientation\": \"three-quarter front view\",\n    \"camera\": \"35mm lens, slightly elevated\",\n    \"grounding\": \"floating mid-air with realistic soft shadow cast on white background\"\n  }\n}",
     "tags": [
       "branding",
@@ -998,7 +998,7 @@
   },
   {
     "id": 103,
-    "image": "103.png",
+    "image": "103.jpeg",
     "prompt": "{\n  \"title\": \"Adaptive Embroidered Brooch Prompt Generator\",\n  \"version\": \"2.0\",\n  \"description\": \"Generate a prompt for an embroidered brooch based on text description or uploaded image.\",\n  \"inputs\": {\n    \"reference_mode\": {\n      \"type\": \"select\",\n      \"label\": \"Reference Source\",\n      \"options\": [\"describe manually\", \"use uploaded image\", \"combine both\"],\n      \"default\": \"describe manually\"\n    },\n    \"theme_text\": {\n      \"type\": \"text\",\n      \"label\": \"Describe the Theme or Motif\",\n      \"placeholder\": \"e.g. an owl in a forest, biomechanical skull, dancing figures\"\n    },\n    \"image_reference_description\": {\n      \"type\": \"text\",\n      \"label\": \"Describe what's in the uploaded image (if using image mode)\",\n      \"placeholder\": \"e.g. a mechanical skull with succulents growing from it\"\n    },\n    \"shape\": {\n      \"type\": \"select\",\n      \"label\": \"Brooch Shape\",\n      \"options\": [\"circular\", \"oval\", \"square\", \"irregular\"],\n      \"default\": \"oval\"\n    },\n    \"style\": {\n      \"type\": \"select\",\n      \"label\": \"Embroidery Style\",\n      \"options\": [\n        \"traditional\", \n        \"folkloric\", \n        \"surreal\", \n        \"biomech-organic fusion\", \n        \"modern minimal\"\n      ],\n      \"default\": \"traditional\"\n    },\n    \"color_palette\": {\n      \"type\": \"select\",\n      \"label\": \"Color Palette\",\n      \"options\": [\n        \"earth tones and muted greens\",\n        \"pastel shades\",\n        \"neon surreal\",\n        \"rusted metal and white florals\",\n        \"monochrome with silver threads\"\n      ],\n      \"default\": \"earth tones and muted greens\"\n    }\n  },\n  \"prompt_template\": \"{final_theme} hand-embroidered brooch, {style} style, crafted with intricate threadwork and metallic accents, soft wool and silk embroidery, fine beadwork outlining the {shape} shape, natural color palette ({color_palette}), macro shot on neutral linen or stone background, ultra-detailed artisan aesthetic, realistic embroidery textures, soft atmospheric lighting --ar 1:1 --style raw --v 6 --q 2\",\n  \"logic\": {\n    \"final_theme\": {\n      \"if\": \"reference_mode == 'describe manually'\",\n      \"value\": \"{theme_text}\"\n    },\n    \"final_theme_alt\": {\n      \"if\": \"reference_mode == 'use uploaded image'\",\n      \"value\": \"{image_reference_description}\"\n    },\n    \"final_theme_combined\": {\n      \"if\": \"reference_mode == 'combine both'\",\n      \"value\": \"{theme_text} and elements from: {image_reference_description}\"\n    }\n  }\n}",
     "tags": [
       "felt",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 104,
-    "image": "104.png",
+    "image": "104.jpeg",
     "prompt": "Visualize any selected emoji [] as an ultra-detailed, hyper-realistic 3D sculpture fully composed of luxurious enamel mosaic tiles. The emoji should retain its iconic silhouette and proportions, reinterpreted as a stylized 3D figure made entirely from curved, faceted, and geometrically interlocked enamel tiles in a radiant mosaic pattern.\n> Use high-gloss enamel tiles in varied shades derived from the emoji’s symbolic palette—integrating metallic accents, opalescent glazes, deep ceramic pigmentation, and subtle iridescence. Tile surfaces must exhibit gentle bevels, crisp joints, and tactile depth to emulate elite architectural mosaic work.\n> Ensure no visible support structures—the figure must appear freestanding and weightless, suspended mid-air at the exact center of the frame.\n> Background: pure white studio environment with soft ambient shadows directly beneath the sculpture to emphasize spatial presence and floating realism.\n> Lighting: cinematic, diffused from multiple angles to",
     "tags": [
       "emoji",
@@ -1019,7 +1019,7 @@
   },
   {
     "id": 105,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A hyperrealistic embroidered textile artwork of the [SUBJECT], created with colored thread and soft fabric textures. The design features dense, tactile stitching and raised embroidery that mimics the actual form and branding. Set against a plain, off-white fabric background, with clean studio lighting and a sharp close-up view. Emphasize threadwork, texture, and handmade imperfections for a realistic soft sculpture look.",
     "tags": [
       "branding",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": 106,
-    "image": "106.png",
+    "image": "106.jpeg",
     "prompt": "Colossal marble statue of [INSERT OBJECT OR CHARACTER HERE], wings (if applicable) spread in divine majesty, adorned with ornate golden armor and flowing baroque robes, cracked marble textures with soft patina, glowing sacred emblem on chest, standing within a celestial golden dome, surrounded by divine architecture, dramatic god rays from above, dynamic mid-action pose, ultra-detailed renaissance sculpture style, cinematic lighting, majestic and sacred atmosphere, 8k resolution",
     "tags": [
       "architecture",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": 107,
-    "image": "107.png",
+    "image": "107.jpeg",
     "prompt": "A hyper-realistic square 1:1 portrait of a [YOUR ANIMAL] standing in a heroic pose, facing slightly left. The animal wears a textured dark gray superhero suit, form-fitting and matte, with visible fabric grain and subtle seams.\n\nOn its chest, inside a golden metallic Superman-style diamond emblem, is a fabric-embroidered version of the [COUNTRY] national flag (realistic stitching, slightly raised).\n\nDraped over the animal’s shoulder is a flowing cape designed from the [COUNTRY] flag, with rich fabric folds and natural weight.\n\nBehind the subject, use a realistic fabric backdrop displaying the full [COUNTRY] flag, slightly out of focus to add depth, with soft shadows to enhance realism.\n\nLighting should be warm and directional (studio-style), emphasizing the animal’s fur texture, suit material, and the contours of a subtly muscular chest. The overall tone is dramatic and cinematic, with a warm color grading and no excessive contrast. The head must be fully visible — no cropping.",
     "tags": [
       "animal",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 109,
-    "image": "109.png",
+    "image": "109.jpeg",
     "prompt": "make a hyper-realistic 3D render of the attached logo, formed by glossy liquid paint splashes. Paint sculpts the outline using the exact palette from the reference. Smooth, fluid high-gloss splashes catch highlights; logo floats on pure white.",
     "tags": [
       "logo"
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 110,
-    "image": "110.png",
+    "image": "110.jpeg",
     "prompt": "A character sheet of [detailed description of thecharacter], in the style of Pixar, featuring multiple poses and expressions from different angles, including concept art, pencil sketches, a full-body reference sheet, and a white background. The sheet includes wide shots, low-angle views, 3D renders, and Octane renderings, highly detailed result.",
     "tags": [
       "character"
@@ -1102,7 +1102,7 @@
   },
   {
     "id": 114,
-    "image": "114.png",
+    "image": "114.jpeg",
     "prompt": "{\n  \"styleAesthetic\": {\n    \"title\": \"Monochrome Pixel Mosaic\",\n    \"overallVibe\": \"Retro mobile-screen pixel art—clean, minimal, and slightly nostalgic\",\n    \"renderingStyle\": \"1-bit square-pixel grid with optional dithering to suggest tone and depth\",\n    \"viewAngle\": \"Orthographic front view (no perspective distortion)\",\n    \"pixelation\": {\n      \"pixelSize\": 6,                     // width/height of each square in px (tweak per output res)\n      \"pixelShape\": \"perfect square\",\n      \"gridAlignment\": \"uniform, no gaps\",\n      \"ditheringPattern\": \"Floyd–Steinberg or ordered 2×2\"\n    },\n    \"colorPalette\": {\n      \"pixelColor\": \"#000000\",            // foreground pixels\n      \"backgroundColor\": \"#8CA17C\",       // muted pastel green sample; replace to recolor\n      \"paletteType\": \"1-bit monochrome\"\n    },\n    \"lightingAndShadows\": {\n      \"pixelDropShadow\": {\n        \"enabled\": true,\n        \"offsetX\": 0,\n        \"offsetY\": 1,\n        \"blur\": 2,\n        \"opacity\": 0.25\n      },\n    },\n    \"materialsAndTextures\": [\n      {\n        \"type\": \"Matte LCD surface\",\n        \"description\": \"Flat display with very fine grain/noise to simulate old LCD texture\",\n        \"noiseIntensity\": 0.01\n      }\n    ],\n    \"typography\": {\n      \"fontFamily\": \"monospaced bitmap\",\n      \"weight\": \"bold\",\n      \"capitalization\": \"uppercase\",\n      \"letterSpacing\": 0,\n      \"align\": \"center\"\n    },\n    \"postProcessing\": {\n      \"edgeSmoothing\": \"none (hard pixel edges preserved)\",\n      \"filmGrain\": 0.01,\n      \"overallContrast\": 1.0\n    },\n    \"adaptabilityHints\": {\n      \"applyToPhotographs\": \"posterize → 1-bit → downsample to pixel grid → apply dithering\",\n      \"applyToVectorText\": \"render glyphs to bitmap grid using same pixel size and drop shadow\",\n      \"safeResize\": \"always scale by whole-number multiples to keep squares crisp\"\n    }\n  }\n}",
     "tags": [
       "minimalist",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": 115,
-    "image": "115.png",
+    "image": "115.jpeg",
     "prompt": "Imagine a visual concept where [insert your product] — featuring Korean text on the label — is suspended inside a cracked, ultra-clear block of ice. The product is fully visible through the ice, with soft frost forming around it. It rests on smooth white silk, and the ambient lighting is cold and elegant, with reflections dancing across the surface. Describe the entire scene in rich visual detail, in the style of a luxurious Korean skincare advertisement.",
     "tags": [
       "poster",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 116,
-    "image": "116.png",
+    "image": "116.jpeg",
     "prompt": "Transform this image into a Nintendo-inspired 3D cartoon style illustration.\n\nUse soft, rounded 3D shapes and clean, toy-like geometry to give the characters and objects a charming, handcrafted look.\n\nCharacters should have exaggerated, childlike proportions (large heads, small limbs), with expressive, simplified faces and bright, colorful clothing — similar to designs seen in Zelda: Link’s Awakening, Animal Crossing, or Miitopia.\n\nApply smooth, matte textures with no realistic detail — everything should look cheerful and slightly plastic, as if sculpted from soft clay or digital vinyl.\n\nThe environment should be bright and whimsical, with stylized grass, puffy clouds, geometric trees, and soft lighting like a sunny afternoon.\n\nThe overall tone should be lighthearted, clean, and family-friendly, like a frame from a Nintendo fantasy adventure game.",
     "tags": [
       "animal",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 117,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Transform this image into a stylized mechanical design sheet inspired by Japanese anime mecha blueprints.\nRender the subject with precise, clean linework and semi-realistic cel-shading, as if it were a technical illustration from an anime artbook.\nBreak down the design into parts (e.g. head, hand, accessory, full body) and arrange them like a reference sheet, with different angles and views.\nInclude soft handwritten notes or Japanese characters scattered like concept annotations.\nUse muted digital colors (red, gray, metallic tones) and draw the background in a loose watercolor anime landscape style — cliffs, cityscapes, or grassland ruins.\nThe final composition should feel like an official design page for an animated sci-fi series or manga.\nKeep the format horizontal, like a blueprint or character sheet, with a balance between precision and artistic flair.",
     "tags": [
       "character",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": 119,
-    "image": "119.png",
+    "image": "119.jpeg",
     "prompt": "Create a close-up, square-format (1:1) photo of an embroidered patch inspired by the uploaded image. The design should feature a clean, cartoon-style embroidered interpretation of the original subject with rich thread texture and vibrant colors. The shape of the patch can vary (round, oval, shielded, silhouette-based), but the output image must remain square.\nIntegrate the national colors of the country represented—such as in the text, the border, or small decorative accents—drawing inspiration from the flag to enhance local identity. Add embroidered capital-letter text like the name of the city or country, either curved or straight. Use a soft off-white fabric background and natural lighting to bring out texture and depth.",
     "tags": [
       "cartoon",
@@ -1167,7 +1167,7 @@
   },
   {
     "id": 120,
-    "image": "120.png",
+    "image": "120.jpeg",
     "prompt": "Chibi-style 3D vinyl toy of [subject], rendered in [color1] and [color2] tones, front-facing on a white background. Minimalist composition with soft shadows, oversized head and tiny body proportions, clean OC renderer output in Cinema 4D. Toy-like shine and playful charm.",
     "tags": [
       "minimalist",
@@ -1176,7 +1176,7 @@
   },
   {
     "id": 121,
-    "image": "121.png",
+    "image": "121.jpeg",
     "prompt": "A Renaissance anatomical study of a [subject], meticulously illustrated in fine graphite and ink cross-hatching, with transparent tissue overlays revealing skeletal and muscular systems. Labeled in elegant Latin calligraphy and presented on aged parchment, the composition exudes scholarly precision and classical beauty.",
     "tags": [
       "paper-craft"
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 122,
-    "image": "122.png",
+    "image": "122.jpeg",
     "prompt": "{\n  \"style\": \"Realistic 3D render\",\n  \"material\": \"Glossy slime-like material\",\n  \"texture\": [\"smooth\", \"soft\", \"stretchy\", \"shiny\"],\n  \"color\": \"VARIABLE\",  \n  \"object_type\": \"VARIABLE\",  \n  \"background\": \"plain white\",\n  \"lighting\": \"soft studio lighting\",\n  \"details\": {\n    \"focus\": \"single object centered\",\n    \"shadows\": \"soft and subtle\",\n    \"reflection\": \"light highlights on surface\",\n    \"depth\": \"shallow depth of field\"\n  },\n  \"format\": \"close-up or three-quarter view\",\n  \"mood\": \"playful, clean, toy-like\",\n  \"prompt_template\": \"A {color} {object_type} made of glossy slime material, soft and stretchy texture, realistic 3D look, set against a plain white background, soft lighting and smooth highlights\"\n}",
     "tags": [
       "toy",
@@ -1193,7 +1193,7 @@
   },
   {
     "id": 123,
-    "image": "123.png",
+    "image": "123.jpeg",
     "prompt": "The [subject] appears as if organically grown from intertwining plants, flowers, and vines. Leaf-like textures and blooming forms fuse seamlessly with anatomical or structural details, creating a surreal hybrid of nature and design. The composition feels ethereal, with natural asymmetry and dreamlike flow.",
     "tags": [
       "nature",
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 125,
-    "image": "125.png",
+    "image": "125.jpeg",
     "prompt": "A hyper-realistic photograph of a fashion doll styled in the aesthetic of [BRAND], sitting on a plush, cream-colored bed with soft folds. The doll’s look reflects the brand’s signature elements — from hair and outfit to accessories — arranged thoughtfully to evoke a dreamy, vintage-inspired editorial. Studio-lit with warm, diffused lighting and a creamy, ivory-toned palette, the scene emulates luxury fashion photography with a soft, dollhouse-like atmosphere and shallow depth of field.",
     "tags": [
       "branding",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 127,
-    "image": "127.png",
+    "image": "127.jpeg",
     "prompt": "A surreal yet hyper-realistic image in levitation photography style, where elements of [subject] float chaotically and randomly above an outstretched hand, interwoven with symbolic elements that directly oppose it.\n\nThe background forms dynamically to visually embody the symbolism of the subject and its opposite, through blurred or abstract details that reflect either tension or harmony between the two—like a mirror inside a dream.\n\nEach element floats at a unique angle and varying distance.\n\nBackground: Shifts according to the subject and its opposite\n\nLighting: Soft cinematic with dreamy shadows\n\nStyle: Hyper-realistic + Levitation Photography + Fantasy\n\nAspect Ratio: 1:1",
     "tags": [
       "fantasy",
@@ -1242,7 +1242,7 @@
   },
   {
     "id": 128,
-    "image": "128.png",
+    "image": "128.jpeg",
     "prompt": "A [PERSON] in a dark room with a glowing projection of the word “[WORD]” repeated endlessly across the walls and body. The text is projected in high-contrast, neon [COLOR], wrapping around the contours of the object, creating a surreal, futuristic lighting effect. The background and object are seamlessly blended into the immersive text environment. Photorealistic, sharp shadows and light distortion where the text bends over curves. Studio lighting with deep contrast, moody cyberpunk aesthetic.",
     "tags": [
       "futuristic",
@@ -1253,7 +1253,7 @@
   },
   {
     "id": 129,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A hyper-realistic photograph of a [FRUIT] sliced into five glossy layers, each slice floating vertically in mid-air with glistening juice droplets at the edges. The slices cast soft, natural shadows on each other. The [FRUIT] has a vibrant skin with appropriate interior details .Set against a softly blurred tropical garden background with hints of lush green leaves and dappled sunlight, the scene is lit with warm, directional golden-hour lighting, enhancing the vivid colors and depth",
     "tags": [
       "interior",
@@ -1292,7 +1292,7 @@
   },
   {
     "id": 133,
-    "image": "133.png",
+    "image": "133.jpeg",
     "prompt": "A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-rigid transparent material that drapes and folds like sheer plastic or molten glass. The object is fully recognizable in shape, yet ghostly and fluid, as if sculpted from air and frozen in motion. Set in a moody, industrial interior with aged concrete walls and diffused daylight from metal-barred windows. The lighting gently highlights the reflections, edges, and flowing curves of the transparent form. Dreamlike, minimalist, surreal design aesthetic.",
     "tags": [
       "interior",
@@ -1322,7 +1322,7 @@
   },
   {
     "id": 136,
-    "image": "136.png",
+    "image": "136.jpeg",
     "prompt": "A high-quality studio photograph of a [OBJECT] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original form remains visible but is wrapped in the animal’s natural pattern and surface detail. The image features clean composition, soft shadows, sharp focus, minimalist styling, professional lighting, and highly detailed textures—each hair, feather, or wrinkle should be visible. Format 1:1.",
     "tags": [
       "animal",
@@ -1366,7 +1366,7 @@
   },
   {
     "id": 140,
-    "image": "140.png",
+    "image": "140.jpeg",
     "prompt": "Transform this image into a modern digital anime TV style. Use clean and sharp outlines, vivid and high-contrast colors, and digital cel shading with subtle gradients. Add visual effects like glows, particles, or light flares if appropriate. The character design should follow modern anime proportions, with detailed hair and expressive eyes. The background can be softly blurred or cinematic. The image should look like a frame from a high-quality anime series currently airing.",
     "tags": [
       "cartoon",
@@ -1375,7 +1375,7 @@
   },
   {
     "id": 141,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create image with 1:1 ratio A cctv footage, \nA closed up view of focus woman carrying  [brand] [product] on street, a square zoomed window on the product, sci fi analyzing overlay UI with infos like brand name, date, time, location name, in brand color monospaced font, product name, width, height, weight, etc, vhs effect, glitch effect, film grainy",
     "tags": [
       "branding",
@@ -1397,7 +1397,7 @@
   },
   {
     "id": 143,
-    "image": "143.png",
+    "image": "143.jpeg",
     "prompt": "A realistic, high-end cocktail in a frosted glass with a sparkling salt rim, filled with crystal-clear ice cubes. The drink is garnished with deep-blue kale leaves and delicate pastel-pink edible flowers. The lighting is moody and cinematic, with soft highlights on the glass. The entire visual style — color palette, lighting, background, and atmosphere — is inspired by the animated film 【MOVIE_TITLE】 by Disney, subtly reflecting its visual tone and mood. At the bottom of the image, in elegant golden serif text, it says: “Disney — 【MOVIE_TITLE】”. Vertical 9:16, ultra-detailed, photographic realism with artistic direction based on the film’s world.",
     "tags": [
       "food",
@@ -1407,7 +1407,7 @@
   },
   {
     "id": 144,
-    "image": "144.png",
+    "image": "144.jpeg",
     "prompt": "[SUBJECT] rendered in Dreamlike Vaporwave Distortion, with soft pastels and surreal effects. Employ a nostalgic color palette of [COLOR1] and [COLOR2] to evoke a sense of longing and ethereal beauty",
     "tags": [
       "creative"
@@ -1415,7 +1415,7 @@
   },
   {
     "id": 145,
-    "image": "145.png",
+    "image": "145.jpeg",
     "prompt": "A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]’s artistic heritage. The chessboard features intricate patterns and national motifs, with the word “[COUNTRY]” written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.",
     "tags": [
       "architecture",
@@ -1450,7 +1450,7 @@
   },
   {
     "id": 149,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create a stylized full-body portrait of [your subject] in the Gorillaz character aesthetic. Give the character an exaggeratedly lanky build with long, skinny legs and narrow arms. Use simplified, angular features and thick, bold outlines. Style the hair to be spiky, tousled, or exaggerated, in a non-natural color like [blue or green]. The eyes must be blank white with no pupils. Use flat, solid colors only. No gradients, shadows, or textures. Background should be a single flat color. Design must be vector friendly and print ready.",
     "tags": [
       "character",
@@ -1460,7 +1460,7 @@
   },
   {
     "id": 150,
-    "image": "150.png",
+    "image": "150.jpeg",
     "prompt": "A comic-style caricature illustration of [subject], with an oversized head and expressive eyes, rendered in a hyper-realistic vinyl toy aesthetic. The character features exaggerated proportions, glossy textures, and playful details, blending caricature art with collectible figure charm.",
     "tags": [
       "character",
@@ -1482,7 +1482,7 @@
   },
   {
     "id": 152,
-    "image": "152.png",
+    "image": "152.jpeg",
     "prompt": "Transform this image into a 1960s Tezuka-style illustration. Use big, rounded expressive eyes with bright highlights. Simplify the anatomy with soft, rounded limbs and clean linework. Avoid detailed textures — focus on smooth color fills and strong silhouettes. The final image should resemble a vintage anime frame from Astro Boy, with an optimistic, futuristic feel.",
     "tags": [
       "futuristic",
@@ -1492,7 +1492,7 @@
   },
   {
     "id": 153,
-    "image": "153.png",
+    "image": "153.jpeg",
     "prompt": "A neon wireframe visualization of a [subject], traced in glowing [color1] and [color2] vector lines. Suspended in a digital void, the figure is surrounded by speed trails, motion blur, and shifting geometric shadows, evoking a sense of kinetic energy and futuristic momentum.",
     "tags": [
       "futuristic",
@@ -1511,7 +1511,7 @@
   },
   {
     "id": 155,
-    "image": "155.png",
+    "image": "155.jpeg",
     "prompt": "a luxurious fashion magazine cover designed in the style of [COUNTRY], blending iconic landmarks, cultural symbols, and local fashion aesthetics. The layout mimics high-end editorial design, with headlines inspired by the country’s language, trends, and lifestyle. Sophisticated, cinematic lighting, vertical 9:16 format, ultra-detailed, Vogue-level elegance",
     "tags": [
       "fashion",
@@ -1542,7 +1542,7 @@
   },
   {
     "id": 158,
-    "image": "158.png",
+    "image": "158.jpeg",
     "prompt": "A high-quality 3D cartoon animal character inspired by [Brand Name], with large round eyes and an innocent, friendly expression. The character wears a knitted sweater featuring the brand name in bold letters. It sits confidently atop a futuristic vehicle shaped like a product from the brand, fully inspired by the brand’s design language and covered in racing stickers and symbolic brand logos. The scene is set inside a maintenance workshop that showcases Stone Age-era versions of the brand's products. The background blends the brand’s visual identity colors. The design must be highly detailed, with Pixar-style lighting and realistic textures for the character, fabric, and vehicle. Format: full-body, in a dynamic pose, rendered in 4K CGI.",
     "tags": [
       "animal",
@@ -1562,7 +1562,7 @@
   },
   {
     "id": 160,
-    "image": "160.png",
+    "image": "160.jpeg",
     "prompt": "Transform this image into an over-the-top anime illustration in the style of Trigger / Gainax. Use exaggerated expressions, wild motion lines, and hyperdynamic poses. The anatomy should be fluid and distorted for emphasis — limbs stretching or snapping into action. Add speed lines, explosive backgrounds, and dramatic lighting effects. Integrate onomatopoeia or stylized text for extra chaos. Colors should be bold, saturated, and contrasting. The result should feel like a freeze frame from Kill la Kill or FLCL, mid-action, full of energy and visual impact.",
     "tags": [
       "illustration"
@@ -1570,7 +1570,7 @@
   },
   {
     "id": 161,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "retexture the image attached based on the JSON below:\n{\n  \"style_name\": \"Transparent Studio Render\",\n  \"visual_rules\": {\n    \"form\": {\n      \"shape\": \"preserve original object shape\",\n      \"outline\": \"no outlines, use smooth geometry transitions and bevels\"\n    },\n    \"lighting\": {\n      \"style\": \"studio-style 3-point lighting or soft HDRI setup\",\n      \"highlight\": \"subtle specular highlights for semi-matte plastic or coated surfaces\",\n      \"shadow\": \"soft drop shadow directly beneath the object, cast on a translucent floor plane\"\n    },\n    \"texture\": {\n      \"surface\": \"smooth or lightly textured based on object, clean shader setup with minimal noise\",\n      \"branding\": \"bold and high-contrast, treated as printed decals or sticker-style labels\"\n    },\n    \"material\": {\n      \"finish\": \"semi-matte or satin shader, mimicking printed plastic or coated materials\"\n    },\n    \"color_handling\": {\n      \"strategy\": \"make the object's primary color the focal point\",\n      \"enhancement\": \"slightly boosted saturation and contrast for clean product visualization\"\n    },\n    \"background\": {\n      \"type\": \"fully transparent (alpha channel)\",\n      \"shadow\": \"optional soft drop shadow directly beneath the object to ground it visually\"\n    }\n  },\n  \"rendering\": {\n    \"camera_angle\": \"centered front view or slightly elevated for dimensional clarity\",\n    \"depth_of_field\": \"neutral or slightly shallow to keep object fully sharp\",\n    \"background_blur\": \"none, background remains transparent\"\n  }\n}",
     "tags": [
       "branding",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": 162,
-    "image": "162.png",
+    "image": "162.jpeg",
     "prompt": "[SUBJECT] in a Surrealist Vaporwave collage. Combine elements of classical sculpture, 80s retrofuturism, and Japanese cityscapes. Use pastel shades of [COLOR1] and [COLOR2] with hints of neon",
     "tags": [
       "futuristic",
@@ -1601,7 +1601,7 @@
   },
   {
     "id": 164,
-    "image": "164.png",
+    "image": "164.jpeg",
     "prompt": "Ultra high-resolution 3D render of the emoji [🥹], meticulously recreated as a realistic cardboard sculpture. The object is crafted from corrugated brown cardboard, featuring clearly defined fluted edges, visible layering, and rough kraft paper textures. Close-up studio",
     "tags": [
       "emoji",
@@ -1612,7 +1612,7 @@
   },
   {
     "id": 165,
-    "image": "165.png",
+    "image": "165.jpeg",
     "prompt": "A hyper-realistic 3D render of the emoji [❤️‍🔥], entirely wrapped in transparent bubble wrap. The plastic is tightly fitted, with clearly visible air-filled bubbles creating overlaid reflections and soft distortions of the emoji underneath. The wrap has a glossy, crinkled texture that catches the light in detailed highlights. Set against a soft, neutral grey background with subtle shadows. Studio lighting should emphasize the tactile quality of the bubble wrap and the surreal effect it creates. Whimsical, satisfying, and visually clean.",
     "tags": [
       "emoji"
@@ -1620,7 +1620,7 @@
   },
   {
     "id": 166,
-    "image": "166.png",
+    "image": "166.jpeg",
     "prompt": "[SUBJECT] illustrated in a Geometric Zen Tranquility style, where simplicity and balance are key. Utilize clean lines, basic shapes, and a serene color palette of [COLOR1] and [COLOR2] to evoke a sense of peace and harmony.",
     "tags": [
       "illustration"
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 168,
-    "image": "168.png",
+    "image": "168.jpeg",
     "prompt": "A minimal still life of a round glass candle filled with [fruit], labeled “[SCENT NAME]”, placed on elegant white silk fabric. The candle glass is [glass color], and the wax matches the fruit color. The scene is softly lit by natural daylight with subtle shadows and smooth highlights. Hyperrealistic texture, clean aesthetic, top-down view, styled like high-end product photography.",
     "tags": [
       "landscape",
@@ -1650,7 +1650,7 @@
   },
   {
     "id": 169,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Close-up, A hand holding a transparent capsule, inside it is a miniature model of [character name], wearing [their iconic outfit and accessories]. The character is posed in a [specific, expressive or dynamic pose], interacting with the inner surface of the capsule, as if they are frozen or confined inside. Hyper-realistic, cinematic, studio lighting setup, photographed with a macro lens.",
     "tags": [
       "character",
@@ -1661,7 +1661,7 @@
   },
   {
     "id": 170,
-    "image": "170.png",
+    "image": "170.jpeg",
     "prompt": "Transform this image into the Foster’s Home for Imaginary Friends cartoon style. Use bold outlines, flat shapes, and vivid solid colors. Characters should have simplified, playful designs with exaggerated expressions and unique silhouettes. Keep the background minimal or stylized with flat patterns or textures. The result should look like a frame from a 2000s Cartoon Network show with whimsical, graphic charm.",
     "tags": [
       "cartoon",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": 174,
-    "image": "174.png",
+    "image": "174.jpeg",
     "prompt": "Cinematic still, A [ description of the character or action scene], with a [ background/environment], a dynamic angle, a [light effect or lighting condition], motion blur, high-resolution photography, a cinematic scene, cinematic lighting, and high contrast.",
     "tags": [
       "character",
@@ -1732,7 +1732,7 @@
   },
   {
     "id": 177,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create a surreal 2D poster design based on the word “[KEYWORD]” — the layout should be dominated by kinetic typography where the word is visually shaped or distorted to reflect its meaning — integrate a symbolic flat minimal illustration that reinforces the concept — the style must be inspired by risograph print: only 2 bold contrasting colors (no gradients) — include a poetic, short quote that resonates emotionally with the keyword — background must be clean and minimal — composition must be vertical, with strong visual impact and artistic balance — the overall tone should feel cinematic, surreal, and graphic — ultra-sharp, high-resolution, no clutter",
     "tags": [
       "illustration",
@@ -1743,7 +1743,7 @@
   },
   {
     "id": 178,
-    "image": "178.png",
+    "image": "178.jpeg",
     "prompt": "[SUBJECT] depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize [COLOR1] and [COLOR2] to enhance the mythical and enchanting qualities.",
     "tags": [
       "animal",
@@ -1752,7 +1752,7 @@
   },
   {
     "id": 179,
-    "image": "179.png",
+    "image": "179.jpeg",
     "prompt": "Create a 3D-rendered digital illustration of a stylized cartoon boy character, standing in a neutral pose. The character should be rendered in a realistic-minimalist 3D style, with soft rounded proportions and plush matte textures — similar to high-end Cinema 4D + Redshift product renders.",
     "tags": [
       "branding",
@@ -1763,7 +1763,7 @@
   },
   {
     "id": 180,
-    "image": "180.png",
+    "image": "180.jpeg",
     "prompt": "A cute pastel vinyl figure of [INSERT YOUR CHARACTER OR OBJECT], pastel colors (lavender, soft pink, baby blue), kawaii style with big round eyes and friendly smile, simple rounded shapes, stylized “RIP” detail somewhere on the figure or base, matching toy packaging in the background with themed art, studio product photo with soft lighting, minimal shadows",
     "tags": [
       "character",
@@ -1804,7 +1804,7 @@
   },
   {
     "id": 184,
-    "image": "184.png",
+    "image": "184.jpeg",
     "prompt": "a realistic LEGO-style set featuring [COUNTRY]’s national treasure: [ITEM]. Photorealistic packaging with LEGO branding, box art showing the built model, the model assembled from LEGO bricks in authentic colors and details. Studio product photography with soft shadows and clear lighting, highly detailed, professional commercial render. Include box and bricks in the scene, focus on realism and LEGO-like style. 9:16.",
     "tags": [
       "branding",
@@ -1815,7 +1815,7 @@
   },
   {
     "id": 185,
-    "image": "185.png",
+    "image": "185.jpeg",
     "prompt": "Imagine a [piece of furniture] designed in the form of [creature/object/concept]. The design should be highly creative and sculptural, like an art piece. Use organic, flowing shapes and detailed textures. Make sure it remains functional and ergonomic. The goal is for it to be both visually striking and practical —something you’d expect to see as a museum-quality design object",
     "tags": [
       "animal",
@@ -1824,7 +1824,7 @@
   },
   {
     "id": 186,
-    "image": "186.png",
+    "image": "186.jpeg",
     "prompt": "[SUBJECT] set within an Art Deco Metropolis, showcasing the grandeur and geometric elegance of 1920s architecture. Use streamlined forms and ornamental details, highlighting a sophisticated color palette of [COLOR1] and [COLOR2] to reflect the prosperity of the era.",
     "tags": [
       "architecture"
@@ -1832,7 +1832,7 @@
   },
   {
     "id": 187,
-    "image": "187.png",
+    "image": "187.jpeg",
     "prompt": "Transform this image into a classic Tex Avery / Looney Tunes cartoon style. Use bold, clean outlines and exaggerated character features — huge eyes, stretched limbs, and over-the-top facial expressions. Emphasize slapstick comedy and visual humor. Colors should be vibrant and flat, with high contrast. Backgrounds should be simple, painted with soft gradients or flat colors, keeping focus on the character's action. Add motion lines, expressive effects (like sweat drops, stars, impact bursts), and a dynamic pose typical of 1940s Warner Bros. animation. The final result should look like a freeze frame from a mid-century animated short — full of cartoon energy and absurd charm.",
     "tags": [
       "cartoon",
@@ -1842,7 +1842,7 @@
   },
   {
     "id": 188,
-    "image": "188.png",
+    "image": "188.jpeg",
     "prompt": "A felted wool figure of a [subject], handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of layered fabrics and pastel props, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread.",
     "tags": [
       "3d",
@@ -1853,7 +1853,7 @@
   },
   {
     "id": 189,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A minimalistic black-and-white autograph design in a single-line drawing style, featuring the handwritten signature: [CHARACTER NAME], integrated with cute line art elements inspired by the character’s appearance and personality (for example: hair, outfit details, weapons, magical symbols). Include a small mascot or doodle of the character in simplified chibi style, surrounded by decorative elements (stars, hearts, sparkles, musical notes, flowers) that match their vibe. Clean, cute, modern design suitable for tattoo or sticker. High-resolution line art.",
     "tags": [
       "character",
@@ -1864,7 +1864,7 @@
   },
   {
     "id": 190,
-    "image": "190.png",
+    "image": "190.jpeg",
     "prompt": "A fictional character shaped like a [Brand Name] product, wearing clothing that reflects the brand’s identity, sitting or riding on an oversized version of one of the brand's products as if it were a futuristic vehicle. The design features an expressive, dynamic artistic style full of motion and vibrant colors, with a large abstract version of the brand’s logo in the background. Freely drawn elements and colors representing the brand are scattered throughout. The background is light-colored, and the brand’s logo appears at the bottom. aspect 1:1",
     "tags": [
       "branding",
@@ -1914,7 +1914,7 @@
   },
   {
     "id": 195,
-    "image": "195.png",
+    "image": "195.jpeg",
     "prompt": "A miniature version of [LOCATION], designed in a whimsical dollhouse style. The structure is surrounded by thematic natural elements and tiny architectural details that reflect its cultural context (e.g., plants, paths, decor). The color palette uses soft pastels (such as coral, blush, sand, mint, or dusty green), with warm cinematic lighting and a serene, dreamy atmosphere. Highly detailed, cozy and stylized. Isometric view, vertical 9:16 format, on a clean studio background.",
     "tags": [
       "architecture",
@@ -1932,7 +1932,7 @@
   },
   {
     "id": 197,
-    "image": "197.png",
+    "image": "197.jpeg",
     "prompt": "A digital clay sculpture of a [subject], captured in a [pose/action], resting on a minimalist [color] plinth etched with organic swirl patterns. The sculpt features smooth, flowing curves and a tactile finish, rendered in a refined [color palette] that evokes a soft, contemporary aesthetic.",
     "tags": [
       "clay",
@@ -1942,7 +1942,7 @@
   },
   {
     "id": 198,
-    "image": "198.png",
+    "image": "198.jpeg",
     "prompt": "A cute designer doll styled as a [SUBJECT]. The doll has a porcelain face with blush, soft curly white hair, and large expressive eyes with unique pupils (like a star and moon). It wears a fluffy pastel-colored costume resembling the [chosen creature or idea], with detailed accessories like a hood with ears or horns, lace, and a ribbon. Embroidery on the paws reflects the character’s theme. The doll is sitting on a neutral background (like beige leather or soft fabric). The atmosphere is dreamy and whimsical, with soft lighting. Style: Korean collectible art doll, highly detailed, pastel color palette.",
     "tags": [
       "animal",
@@ -1952,7 +1952,7 @@
   },
   {
     "id": 199,
-    "image": "199.png",
+    "image": "199.jpeg",
     "prompt": "Retexture the uploaded image based on the JSON\n\n{\n  \"materials\": {\n    \"exterior\": \"matte injection-molded plastic\",\n    \"interior\": [\n      \"blocky colored plastic parts\",\n      \"oversized gears\",\n      \"simple rods\",\n      \"basic springs\",\n      \"toy decals\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"studio soft light\",\n    \"direction\": \"top and front fill\",\n    \"color\": \"warm daylight\",\n    \"mood\": \"nostalgic, cheerful\"\n  },\n  \"background\": {\n    \"type\": \"solid\",\n    \"color\": \"pastel yellow\"\n  },\n  \"camera\": {\n    \"angle\": \"eye-level side\",\n    \"focus\": \"medium sharp\",\n    \"depth_of_field\": \"deep\"\n  },\n  \"color_palette\": {\n    \"dominant\": [\"red\", \"blue\", \"yellow\"],\n    \"accents\": [\"mint green\", \"white\", \"peach\"]\n  },\n  \"vibe\": \"1980s retro toy, nostalgic, playful\"\n}",
     "tags": [
       "interior",
@@ -1974,7 +1974,7 @@
   },
   {
     "id": 201,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Imagine you’re a tiny cartoon character who has come to life on a piece of paper! Draw yourself running away from a giant pencil that’s trying to erase you. Add colorful pencils, a desk, and maybe some flying eraser bits for extra excitement. Use your wildest imagination to make it look like you’re bursting out of the page!",
     "tags": [
       "cartoon",
@@ -2016,7 +2016,7 @@
   },
   {
     "id": 205,
-    "image": "205.png",
+    "image": "205.jpeg",
     "prompt": "A high-quality studio photograph of a [BRAND + OBJECT] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original shape, key design elements, and brand identity remain clearly visible beneath the animal’s organic surface. Integrate the official logo of the brand prominently into the composition. Automatically generate a compelling and brand-appropriate slogan that draws symbolic inspiration from the animal’s qualities and matches the tone of a premium advertising campaign. The image must feature clean composition, soft shadows, minimalist styling, professional lighting, and highly detailed textures—each hair, scale, or wrinkle should be visible in sharp detail. Format 1:1.",
     "tags": [
       "animal",
@@ -2057,7 +2057,7 @@
   },
   {
     "id": 209,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create the word “[WORD]” made entirely from its real texture and styled using the identity of the most iconic brand associated with it.\n\nThe word should:\n• Visually reflect the material (e.g. honey, chocolate, soda, candy).\n• Use the brand’s signature colors and typography.\n• Include the brand logo beneath the word.\n• Add a short slogan (3–4 words) matching the product’s vibe.\n• Be centered in a minimal background inspired by the product (e.g. breakfast table, soda splash, cookie tray).\n\n• Dimensions: 1:1\n• Style: clean, bold, product-focused\n• Render: ultra-HD, HDR, 8K",
     "tags": [
       "branding",
@@ -2090,7 +2090,7 @@
   },
   {
     "id": 212,
-    "image": "212.png",
+    "image": "212.jpeg",
     "prompt": "A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAND], standing on a surreal floating platform that visually embodies its spirit. The platform is made of materials that represent the drink’s essence (e.g. sparkling crystals for champagne, rich dark wood for whiskey, frosted ice for vodka), with dramatic reflections and melting details dripping into a calm reflective water surface. A matching glass is filled with the drink, featuring artistic textures (ice, gems, swirling liquid). Soft, colorful sunset sky with dramatic clouds in the background, high-end luxury aesthetic, photorealistic, macro details, dreamy glow, premium product photography.",
     "tags": [
       "branding",
@@ -2119,7 +2119,7 @@
   },
   {
     "id": 215,
-    "image": "215.png",
+    "image": "215.jpeg",
     "prompt": "Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic\nwith a rebellious, animated tone, dark stylish tone, full of attitude.",
     "tags": [
       "illustration"
@@ -2127,7 +2127,7 @@
   },
   {
     "id": 216,
-    "image": "216.png",
+    "image": "216.jpeg",
     "prompt": "[Character] sprinting past dream elements, Storybook illustration, Maze of floating doors, clocks, and whispers, Lantern glow and ambient sparkle trails, [Color1] and [Color2], Whimsical and fast-paced, Follow-cam style with trailing POV",
     "tags": [
       "character",
@@ -2137,7 +2137,7 @@
   },
   {
     "id": 217,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Transform this image into a Cartoon Modern Style illustration, inspired by classic UPA animation like Mr. Magoo and The Jetsons.\nRedesign the character using flat, geometric shapes: ovals, rectangles, simple curves and angles. Avoid realistic proportions — the design should be stylized and abstract.\nUse a limited color palette, preferably soft pastels or bold contrasts (e.g. mint green, salmon, sky blue, mustard yellow), with flat tones and no gradients.\nSimplify facial features and body structure to be iconic and minimalist — large heads, small limbs, expressive poses, but with minimal detail.\nThe background should be minimal or symbolic, using basic shapes or abstract scenery (floating stairs, blocky furniture, stylized trees or stars).\nThe final image should look like a frame from a 1950s or 1960s modernist cartoon — playful, graphic, and highly stylized.",
     "tags": [
       "cartoon",
@@ -2157,7 +2157,7 @@
   },
   {
     "id": 219,
-    "image": "219.png",
+    "image": "219.jpeg",
     "prompt": "A super detailed, realistic snow globe containing the essence of [Country Name]. Inside the globe: miniature snowy landscapes, iconic landmarks, cultural symbols, and natural elements representing [Country Name], rendered with extreme realism and rich textures. Delicate falling snow creates a magical, atmospheric effect inside the globe. The background is clean and softly lit to focus entirely on the globe. The image is 1:1 aspect ratio. At the bottom of the image, the text “[Country Name]” is clearly written in an elegant serif font",
     "tags": [
       "architecture",
@@ -2209,7 +2209,7 @@
   },
   {
     "id": 224,
-    "image": "224.png",
+    "image": "224.jpeg",
     "prompt": "retexture the image attached based on the json below:\n{\n  \"style_name\": \"Soft Minimal 3D Plastic\",\n  \"retexture_mode\": \"shape_lock\",\n  \"object_analysis\": {\n    \"preserve_silhouette\": true,\n    \"geometry_sensitive_mapping\": true,\n    \"detail_retention\": \"flatten complex details into simplified geometry blocks\"\n  },\n  \"material_properties\": {\n    \"base_material\": [\n      \"smooth matte plastic\",\n      \"metallic edge trim with satin finish\",\n      \"semi-reflective black screen surface\"\n    ],\n    \"surface_details\": [\n      \"subtle color gradient\",\n      \"rounded bevels and corners\",\n      \"soft transition between surfaces\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"soft gradient ambient light\",\n    \"shadows\": \"minimal, soft-edged shadows\",\n    \"highlights\": \"diffused, low-intensity reflections\"\n  },\n  \"background\": {\n    \"color\": \"pastel gradient (blue to cream)\",\n    \"texture\": \"smooth and untextured\",\n    \"elements\": \"clean background with no added geometry\"\n  },\n  \"rendering\": {\n    \"style\": \"isometric 3D render\",\n    \"resolution\": \"high, with slight bloom\",\n    \"focus\": \"central object, no depth blur\"\n  },\n  \"color_palette\": {\n    \"primary\": [\"cool grey\", \"steel blue\", \"soft charcoal\"],\n    \"accents\": [\"light lavender\", \"pastel yellow\"]\n  }\n}",
     "tags": [
       "minimalist"
@@ -2217,7 +2217,7 @@
   },
   {
     "id": 225,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [COLOR/DESIGN] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [LOGO], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.",
     "tags": [
       "branding",
@@ -2228,7 +2228,7 @@
   },
   {
     "id": 226,
-    "image": "226.png",
+    "image": "226.jpeg",
     "prompt": "Close-up. Overhead shot from an extremely high vantage point, extremely low grain with iso100 film shadows on a Lomo LC-A. Realistic depth of field. Artistic composition. Overall bluish tones. Beautiful light and shadows. The black floor with the projected image of the blue sky that fills the screen. A very beautiful small-faced Japanese film actress with wet showy hair in a black dress shirt sitting cross-legged on the floor. She is wearing a long red skirt. Shiny black hair. Long eyelashes. Bright skin. Beautiful shining eyes. A smiling face. On the floor next to the actress is a white model of Saturn. The picture looks like a scene from a movie.",
     "tags": [
       "landscape"
@@ -2236,7 +2236,7 @@
   },
   {
     "id": 227,
-    "image": "227.png",
+    "image": "227.jpeg",
     "prompt": "A glossy candy-shaped perfume bottle resting on an open book, soft morning light, delicate shadows, dreamy bokeh background with iridescent cellophane wrapping. The candy design is inspired by [YOUR STYLE]",
     "tags": [
       "creative"
@@ -2277,7 +2277,7 @@
   },
   {
     "id": 231,
-    "image": "231.png",
+    "image": "231.jpeg",
     "prompt": "Create a hyper-realistic 3D rendering of balloon letters forming the word [WOW]. Each letter should look like a shiny, inflatable mylar balloon with a bold printed pattern. Use a mix of textures such as [checkered print, color grids, polka dots, or glossy metallic black]. The balloons should be semi-reflective with realistic air volume, seams, wrinkles, and pressure points. Give each letter a distinct, playful surface design but keep the overall look cohesive. Use a soft pastel background, like [Orange color], to contrast the balloon textures. Lighting should create crisp reflections and soft shadows. The rendering must be photorealistic, fun, and vibrant — like a high-end visual for a creative pop-art birthday installation or fashion campaign.",
     "tags": [
       "fashion",
@@ -2296,7 +2296,7 @@
   },
   {
     "id": 233,
-    "image": "233.png",
+    "image": "233.jpeg",
     "prompt": "A highly detailed and surreal depiction of a mythical bird creature. It has the elegant, colorful body of a butterfly, with vibrant symmetrical wing patterns. Its head is that of a majestic elephant, complete with large ears, a long curling trunk, and ivory tusks, giving it a powerful and ancient aura. A long, spotted giraffe neck connects the body and the head, rising high with grace. The wings are enormous eagle wings, fully extended with dramatic feathers in motion. Its tail is an iridescent peacock tail, fanned out in full display like royal plumage. The creature stands in an enchanted misty forest, bathed in ethereal light and surrounded by glowing particles. Ultra-realistic, cinematic lighting, fantasy atmosphere, hyper-detailed concept art",
     "tags": [
       "animal",
@@ -2336,7 +2336,7 @@
   },
   {
     "id": 237,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Cinematic shot of [detailed character description], shot from [camera angle], [lighting type], [color palette], shot at close range, 35mm film grain, wide angle lens, f2.0 bokeh, shallow depth of field.",
     "tags": [
       "character"
@@ -2344,7 +2344,7 @@
   },
   {
     "id": 238,
-    "image": "238.png",
+    "image": "238.jpeg",
     "prompt": "A high-end editorial photo of (PRODUCT NAME OR IMAGE) placed on a white marble pedestal, resting on champagne-colored silk. It is surrounded by pastel flowers whose type and color naturally harmonize with the product’s primary colors (COLOR PALETTE) — complementing and enhancing its tones. Soft natural light from the upper left. 3D realism, luxury product photography, shallow depth of field, 1:1 format.",
     "tags": [
       "nature",
@@ -2374,7 +2374,7 @@
   },
   {
     "id": 241,
-    "image": "241.png",
+    "image": "241.jpeg",
     "prompt": "Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the uploaded attachment image. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp app use.",
     "tags": [
       "fashion",
@@ -2383,7 +2383,7 @@
   },
   {
     "id": 242,
-    "image": "242.png",
+    "image": "242.jpeg",
     "prompt": "Retexture the image attached based on the JSON below\n{\n  \"style_name\": \"Playful Chunky 3D Aesthetic\",\n  \"retexture_mode\": \"stylized_3d_overlay\",\n  \"object_analysis\": {\n    \"preserve_silhouette\": true,\n    \"geometry_sensitive_mapping\": true,\n    \"detail_retention\": \"moderate — focus on key forms and proportions\"\n  },\n  \"material_properties\": {\n    \"base_material\": [\"soft matte plastic\", \"rubbery polymer\"],\n    \"surface_details\": [\n      \"rounded edges and inflated volumes\",\n      \"smooth, toy-like finish\",\n      \"minimal seam lines\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"studio diffused light\",\n    \"intensity\": \"medium\",\n    \"shadows\": \"soft base shadows\",\n    \"highlight_behavior\": \"gentle gloss on curves and raised surfaces\"\n  },\n  \"color_palette\": {\n    \"dominant_colors\": [\"#f6f6f6\", \"#3a3a3a\", \"#f05423\"],\n    \"accent_colors\": [\"#ff875d\", \"#b0b0b0\", \"#f3f3f3\"]\n  },\n  \"background\": {\n    \"color\": \"#f9f9f9\",\n    \"type\": \"solid\",\n    \"texture\": \"none\"\n  },\n  \"style_tags\": [\n    \"3D cartoon realism\",\n    \"UI icon pack aesthetic\",\n    \"inflated minimalism\",\n    \"soft tech look\",\n    \"playful volume modeling\"\n  ]\n}",
     "tags": [
       "3d",
@@ -2394,7 +2394,7 @@
   },
   {
     "id": 243,
-    "image": "243.png",
+    "image": "243.jpeg",
     "prompt": "Transform the character into a digital, half-body cartoon-style portrait. Use a playful, vector-friendly style with clean solid lines, rounded face, oversized googly eyes, and minimal facial details. Show the character from chest up, including shoulders and upper torso. Apply smooth gradient fills to both the character and background for a colorful, soft look. Square format.",
     "tags": [
       "cartoon",
@@ -2405,7 +2405,7 @@
   },
   {
     "id": 244,
-    "image": "244.png",
+    "image": "244.jpeg",
     "prompt": "Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.",
     "tags": [
       "nature"
@@ -2446,7 +2446,7 @@
   },
   {
     "id": 248,
-    "image": "248.png",
+    "image": "248.jpeg",
     "prompt": "A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose",
     "tags": [
       "character",
@@ -2455,7 +2455,7 @@
   },
   {
     "id": 249,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Image of a billboard with the text: “Image of a billboard with the text:”",
     "tags": [
       "creative"
@@ -2463,7 +2463,7 @@
   },
   {
     "id": 250,
-    "image": "250.png",
+    "image": "250.jpeg",
     "prompt": "Create square image of studio-lit product photography of a [Product] suspended in mid-air, lots of thick dynamic water swirls surrounding it in slow-motion arcs, crystal-clear droplets glistening with light refraction, high-gloss finish, minimal backdrop, cinematic lighting with soft shadows and highlights, shot on a pure matching gradient background, ultra-realistic detail, commercial photography style, 85mm lens depth of field.",
     "tags": [
       "branding",
@@ -2485,7 +2485,7 @@
   },
   {
     "id": 252,
-    "image": "252.png",
+    "image": "252.jpeg",
     "prompt": "Transform the uploaded image into a surreal illustration with a whimsical, dream‑like vibe.\n• Color palette: muted tones (soft greens, browns, greys) with occasional gentle pops of green.\n• Lighting: soft, diffused, almost ethereal light that blends gradients and subtle highlights.\n• Texture & medium feel: oil‑painting‑like brushstrokes, faint watercolor washes, or loose hand‑drawn linework, with a slight grainy texture.\n• Mood & composition: exaggerated, expressive features (e.g., elongated faces or emotive eyes) characteristic of cartoonish or Muppet‑style illustrations, but applied in a surreal, slightly fantastical context.\n• Overall aesthetic: blend realistic attention to detail with a touch of surreal whimsy—think serene, slightly uncanny atmosphere.",
     "tags": [
       "cartoon",
@@ -2506,7 +2506,7 @@
   },
   {
     "id": 254,
-    "image": "254.png",
+    "image": "254.jpeg",
     "prompt": "{\n\"style_name\": \"Frosted Bubble 3D Icons\",\n\"render_mode\": \"3d_semi_transparent_detailed\",\n\"icon_subject\": \"{{icon_ PlayStation controller}}\",\n\"object_analysis\": {\n\"preserve_silhouette\": true,\n\"geometry_sensitive_mapping\": true,\n\"detail_retention\": \"smooth rounded edges, subtle internal reflections\"\n},\n\"material_properties\": {\n\"base_material\": [\n\"frosted translucent plastic\",\n\"semi-transparent matte acrylic\"\n],\n\"internal_elements\": \"floating colorful spheres, visible through the outer shell\",\n\"surface_finish\": \"frosted, diffused matte texture with light translucency\",\n\"texture_behavior\": \"no external color tint, transparency reveals inner objects\",\n\"branding_elements\": \"none\"\n},\n\"color_palette\": {\n\"primary\": [\"#FFFFFF\", \"#F5F5F5\"],\n\"accents\": [\"#FF69B4\", \"#FFA500\", \"#6A5ACD\", \"#00CED1\", \"#FFD700\"],\n\"contrast\": \"very high\"\n},\n\"lighting\": {\n\"type\": \"soft ambient + rim lighting\",\n\"intensity\": \"high\",\n\"shadows\": \"soft glow under the object\",\n\"highlights\": \"faint edge glow and top soft reflection\"\n},\n\"rendering\": {\n\"style\": \"modern 3D icon with internal color elements\",\n\"background\": \"pure black\",\n\"camera_angle\": \"isometric 3/4 view\",\n\"depth_of_field\": \"none, all details in focus\"\n},\n\"style_notes\": [\n\"black background increases bubble color visibility\",\n\"frosted transparency should glow subtly against black\",\n\"perfect for high-contrast, collectible-style icons\"\n]\n}",
     "tags": [
       "3d",
@@ -2537,7 +2537,7 @@
   },
   {
     "id": 257,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "{\n  \"object\": \"OBJECT_NAME\",\n  \"style\": \"Transparent Honeycomb Transformation\",\n  \"description\": \"Transform the object into a structure made entirely of crystallized golden honey with high transparency. The surface should be ultra-glossy, semi-liquid, and light-reflective, with defined yet see-through hexagonal honeycomb patterns. Parts of the object should allow light to pass through, revealing inner layers and structure. Include gentle honey drips for realism.\",\n  \"material\": {\n    \"primary\": \"Crystal-clear amber honey\",\n    \"secondary\": \"Translucent honeycomb cells\"\n  },\n  \"texture\": {\n    \"surface\": \"Ultra glossy and semi-liquid\",\n    \"pattern\": \"See-through hexagonal honeycomb\",\n    \"drips\": true\n  },\n  \"effects\": {\n    \"translucency\": \"highly translucent\",\n    \"internal_glow\": \"Soft warm light from within\",\n    \"emblem\": \"Delicate bee icon subtly embedded in the structure\"\n  },\n  \"presentation\": {\n    \"background\": \"Clean white or soft gradient\",\n    \"lighting\": \"Backlit with soft diffusion to enhance translucency\",\n    \"floating\": true,\n    \"format\": \"Square\"\n  }\n}",
     "tags": [
       "logo",
@@ -2546,7 +2546,7 @@
   },
   {
     "id": 258,
-    "image": "258.png",
+    "image": "258.jpeg",
     "prompt": "Transform this image into a 1950s poster in the style of mid-century modern graphic designers. Use flat, geometric color blocks with strong typographic elements.  The overall tone should be optimistic, nostalgic, and promotional. Add bold location labels and promotional slogans.",
     "tags": [
       "poster",
@@ -2555,7 +2555,7 @@
   },
   {
     "id": 259,
-    "image": "259.png",
+    "image": "259.jpeg",
     "prompt": "Transform this image into a 1930s animation storyboard in the style of Fleischer Studios. Use greyscale with expressive inky shading and rubber-hose limbs. Surround the scene with anthropomorphic objects, bouncy motion lines, and slapstick action. The overall tone should be jazzy, lively, and playful. Add hand-lettered sound effects and quirky dialogue signs.",
     "tags": [
       "landscape"
@@ -2563,7 +2563,7 @@
   },
   {
     "id": 260,
-    "image": "260.png",
+    "image": "260.jpeg",
     "prompt": "Transform this image into a 1920s fairy tale illustration in the style of Arthur Rackham. Use muted watercolor tones and intricate ink linework. Fill the scene with whimsical forest creatures, twisted tree branches, and hidden magical objects. The overall tone should be mysterious, enchanting, and slightly eerie. Add handwritten calligraphy-style captions and riddles.",
     "tags": [
       "animal",
@@ -2585,7 +2585,7 @@
   },
   {
     "id": 262,
-    "image": "262.png",
+    "image": "262.jpeg",
     "prompt": "Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic\nwith a rebellious, animated tone, dark stylish tone, full of attitude.",
     "tags": [
       "illustration"
@@ -2601,7 +2601,7 @@
   },
   {
     "id": 264,
-    "image": "264.png",
+    "image": "264.jpeg",
     "prompt": "Ultra-detailed render of a [CHARACTER NAME] paper toy version in box form (papertoy) made from matte folded cardboard and cut with visible paper texture, clean edges and neat folds. Cubic head and body, square extremities, simplified facial features, flat printed colors and subtle shading for greater depth. The clothing and accessories faithfully imitate the appearance of the reference image in a minimalist geometric papercraft style, maintaining compact proportions and chibi style. Neutral studio lighting, soft shadows, smooth background, photorealistic product photography, 4K, no text or logos. 1080x1080 dimension.",
     "tags": [
       "character",
@@ -2612,7 +2612,7 @@
   },
   {
     "id": 265,
-    "image": "265.png",
+    "image": "265.jpeg",
     "prompt": "A hyper-realistic editorial concept for a collaboration between [BRAND] and [MAGAZINE BRAND]. Square 1:1 composition, shot in a sleek Parisian interior with marble floors and tall windows, golden afternoon light illuminating the scene. A single model in a couture gown poses gracefully beside a realistically sized [BRAND] perfume bottle with the [BRAND] logo clearly visible placed on a marble pedestal. Ultra-refined textures, cinematic realism, Vogue-style photography.",
     "tags": [
       "branding",
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 266,
-    "image": "266.png",
+    "image": "266.jpeg",
     "prompt": "A hyper-realistic photograph of a tree in a scenic meadow, with a sturdy, detailed bark trunk and lush green leaves, where instead of fruits, the branches naturally bear [PRODUCT], seamlessly integrated into the foliage, with realistic textures, natural lighting, soft shadows, subtle imperfections, shot at eye level with a shallow depth of field, ultra-detailed, 8k",
     "tags": [
       "nature",
@@ -2633,7 +2633,7 @@
   },
   {
     "id": 267,
-    "image": "267.png",
+    "image": "267.jpeg",
     "prompt": "A single vintage tea bag lying on a clean white background, hand-painted with an intricate illustration resembling a book cover. The tea bag has delicate aged paper texture, soft warm lighting, and realistic details. On the painted design, leave a clear blank space labeled [BOOK] for the book title. Cinematic, high-resolution, vertical format 9:16.",
     "tags": [
       "illustration",
@@ -2654,7 +2654,7 @@
   },
   {
     "id": 269,
-    "image": "269.png",
+    "image": "269.jpeg",
     "prompt": "Two anime-style characters standing behind a futuristic transparent X-ray scanning panel, each leaning on it casually. Their full bodies are visible through the glowing glass as stylized, semi-transparent X-ray scans. [INSERT SCAN DETAILS HERE — e.g. hybrid anatomy, supernatural markings, implants, etc.]. Futuristic sci-fi interface overlays on the glass, with holographic HUD elements and glowing digital text. The background is minimal and sterile, resembling a high-tech medical chamber. The characters are [INSERT CHARACTER NAMES & DESCRIPTION HERE — appearance, expression, outfit], drawn in modern high-quality anime style. The scene uses soft colored lighting (e.g. cyan, pink, red depending on the pair), expressive animation, and cinematic composition.",
     "tags": [
       "character",
@@ -2676,7 +2676,7 @@
   },
   {
     "id": 271,
-    "image": "271.png",
+    "image": "271.jpeg",
     "prompt": "Transform this image into a digital illustration with a surreal, geometric art style. Apply glitch textures, abstract shapes, and cinematic composition. Use the original photo’s lighting and color palette to guide the atmosphere, while reimagining the scene in a stylized, dreamy, retro-futuristic way.",
     "tags": [
       "futuristic",
@@ -2687,7 +2687,7 @@
   },
   {
     "id": 272,
-    "image": "272.png",
+    "image": "272.jpeg",
     "prompt": "A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose",
     "tags": [
       "character",
@@ -2696,7 +2696,7 @@
   },
   {
     "id": 273,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "“{BRAND or PRODUCT NAME}” — surreal minimal conceptual advertisement\nCreate a 1:1 high-resolution poster that reimagines the brand/product as a surreal object of desire using minimal elements and symbolic storytelling.\n\n• Visual Style: ultra-clean background (light or muted tone), soft lighting, strong negative space\n• Scene Concept: transform the essence of the product into a metaphorical or dreamlike scene\n• Add a short, punchy slogan (2–3 words) that emotionally resonates with the concept\n• Include the brand’s logo in a clean, modern style (integrated naturally into the layout)\n• Composition: centered or rule-of-thirds alignment, use shadows and depth tastefully\n• Mood: artistic, elegant, and thought-provoking — like a museum installation\n• No clutter, no realism overload — just conceptual clarity",
     "tags": [
       "branding",
@@ -2707,7 +2707,7 @@
   },
   {
     "id": 274,
-    "image": "274.png",
+    "image": "274.jpeg",
     "prompt": "create comic style illustration:\n{\n\"style\": \"comic book illustration\",\n\"line_art\": {\n\"type\": \"bold black outlines\",\n\"thickness\": \"medium\",\n\"detail\": \"emphasized contours and shading lines\"\n},\n\"coloring\": {\n\"palette\": \"vibrant and saturated colors\",\n\"shading\": \"halftone dots and cel shading\",\n\"highlighting\": \"strong contrast with pop art effects\"\n},\n\"texture\": {\n\"surface\": \"flat with visible ink strokes\",\n\"effect\": \"printed comic paper texture\"\n},\n\"composition\": {\n\"layout\": \"centered subject\",\n\"background\": \"simple with radial burst or comic-style lines\",\n\"framing\": \"comic panel border\"\n},\n\"lighting\": {\n\"type\": \"dramatic\",\n\"angle\": \"top-left with bold highlights and shadows\"\n},\n\"post_processing\": {\n\"effect\": [\"halftone dots\", \"ink outline\", \"grain\"],\n\"saturation\": \"high\",\n\"contrast\": \"high\"\n},\n\"mood\": \"dynamic and action-oriented\",\n\"format\": \"vertical or square depending on original image\"\n}",
     "tags": [
       "illustration",
@@ -2725,7 +2725,7 @@
   },
   {
     "id": 276,
-    "image": "276.png",
+    "image": "276.jpeg",
     "prompt": "create image:\n{\n  \"style\": \"mosaic stained glass emblem\",\n  \"object\": \"brand logo\",\n  \"brand\": {\n    \"name\": \"Spotify\",\n    \"logo_shape\": \"circular\",\n    \"icon_style\": \"three curved bars\",\n    \"color_palette\": {\n      \"primary\": \"#1DB954\",\n      \"secondary\": \"#1ED760\",\n      \"glass_variants\": [\"#147A3E\", \"#0F5C30\", \"#26C178\"]\n    }\n  },\n  \"material\": {\n    \"type\": \"colored glass\",\n    \"effect\": \"semi-transparent with light reflections\",\n    \"outline\": {\n      \"color\": \"#111111\",\n      \"width\": \"medium\",\n      \"style\": \"lead-line traditional mosaic\"\n    }\n  },\n  \"composition\": {\n    \"layout\": \"logo composed of tessellated glass pieces\",\n    \"geometry\": \"irregular but fitted glass shapes\",\n    \"contrast\": \"dark outlines define shape clearly\"\n  },\n  \"lighting\": {\n    \"type\": \"diffused natural light\",\n    \"highlight\": \"glass texture and color depth emphasized\"\n  },\n  \"background\": {\n    \"type\": \"flat surface\",\n    \"color\": \"#F4F4F4\"\n  },\n  \"camera\": {\n    \"angle\": \"top-down\",\n    \"focus\": \"centered on entire logo\"\n  },\n  \"render\": {\n    \"quality\": \"high\",\n    \"shadows\": \"soft\",\n    \"reflections\": \"minimal\"\n  }\n}",
     "tags": [
       "branding",
@@ -2736,7 +2736,7 @@
   },
   {
     "id": 277,
-    "image": "277.png",
+    "image": "277.jpeg",
     "prompt": "Create a minimalistic illustration of [object or scene] in a paper cut-out style. Use soft, pastel colors and simple shapes. Include layered paper textures and subtle shadows to create depth. Place the object on a plain background. Ensure a clean, modern, and aesthetically pleasing composition with a slightly isometric perspective.",
     "tags": [
       "illustration",
@@ -2747,7 +2747,7 @@
   },
   {
     "id": 278,
-    "image": "278.png",
+    "image": "278.jpeg",
     "prompt": "Create a cute 3D cartoon keychain version of the person in the uploaded photo. Transform the face and pose into a soft, simplified toy-like figure with a silicone-like smooth texture and pastel colors. Add a name tag that says \"[NAME]\" attached to the keychain in a playful rounded font. No background, minimal shadows. Toy product design for keychain format.",
     "tags": [
       "cartoon",
@@ -2758,7 +2758,7 @@
   },
   {
     "id": 279,
-    "image": "279.png",
+    "image": "279.jpeg",
     "prompt": "A playful and modern app icon design of a cute coffee cup character with a winking eye and smiling mouth, red-orange flame-like hair on top, minimal flat vector style, glossy highlights, soft shadows, centered composition, high contrast, vibrant colors, rounded corners, on a transparent background, icon-friendly, no text, no details outside the frame, size is 1024x1024.",
     "tags": [
       "character",
@@ -2777,7 +2777,7 @@
   },
   {
     "id": 281,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create Airbnb creative ad, show a suitcase opening like a dollhouse, revealing a cozy room inside, tagline: “Feel at home, anywhere.”",
     "tags": [
       "interior",
@@ -2841,7 +2841,7 @@
   },
   {
     "id": 287,
-    "image": "287.png",
+    "image": "287.jpeg",
     "prompt": "A 3D papercraft representation of [Subject], composed of layered paper cutouts, resting on a simple cardboard base. Highlights of [color 1] and [color 2] paper textures create depth and dimension. Set against a softly lit crafts room, realistic lighting, intricate paper edges, shallow depth of field",
     "tags": [
       "3d",
@@ -2863,7 +2863,7 @@
   },
   {
     "id": 289,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "别人催我时，我回复：我知道你很急，但你先别急\n\n请为此设计表情包图片",
     "tags": [
       "emoji"
@@ -2976,7 +2976,7 @@
   },
   {
     "id": 301,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size stone busts of [CHARACTER]; warm beige museum lighting, matte alabaster texture, symmetrical composition, shallow depth of field (85mm), subtle film grain, 3:4 vertical, no text or watermark.",
     "tags": [
       "character",
@@ -3140,7 +3140,7 @@
   },
   {
     "id": 317,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Create an artistic collage of 6 vintage Polaroid photos, attached with a decorative rope and mini clothespins, like a home photo gallery. Each Polaroid frame has a slight fading and an old paper effect. The background is a soft pastel wall with light shadows, creating a cozy and creatively chaotic atmosphere.\nEmotions and poses:\n * Light laughter — eyes closed, natural joy.\n * Dreamy gaze upwards, relaxed pose.\n * Playful wink.\n * Calm smile with a head tilted to the side.Dynamic gesture hands raised high, full of energy.\n\n* Romantic half-glance over the shoulder.\n\nThe atmosphere is an art-retro style with elements of a '70s fashion magazine, soft diffused lighting, and muted warm and golden tones. Each photograph looks like a unique behind-the-scenes shot, with a touch of nostalgia and a sense of personal history.",
     "tags": [
       "fashion",
@@ -3397,7 +3397,7 @@
   },
   {
     "id": 341,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A blurry, high-grain snapshot taken in a Tokyo subway stairwell, charged with motion, humidity, and raw urban energy. The air feels thick and fluorescent, lit by overhead tube lights that cast a cold green-blue tint across the frame. The film grain, chromatic aberration, and lens distortion add a tactile sense of chaos — a fleeting instant suspended mid-run.\n\nAt the center, a young woman in a tied white shirt and short plaid skirt is caught mid-step, descending the stairs. Her movement blurs, skirt flaring slightly, hair swept by motion. The focus drifts between her and the background, giving the shot a dreamlike disorientation, as if seen through memory or adrenaline.\n\nHer expression holds the entire frame together — eyes open, lips slightly parted, cheeks flushed, as if between alertness and vulnerability. There’s no posed awareness, only instinct — a moment stolen from time.\n\nAround her, commuters blur into silhouettes, the hallway tight and echoing, the walls reflecting harsh fluorescent glare. The composition feels accidental yet perfect: tilted, urgent, intimate.\n\nThe atmosphere is electric and nostalgic, a mix of youth, motion, and fleeting emotion, like a fragment from a fever dream or an afterimage burned into film — not cinematic, but hyper-real, the kind of moment only disposable-camera photography captures: alive, imperfect, and painfully real.",
     "tags": [
       "photography"
@@ -3491,7 +3491,7 @@
   },
   {
     "id": 351,
-    "image": "351.png",
+    "image": "351.jpeg",
     "prompt": "身上穿着唐朝服饰的一只派大星，自然逼真，北宋时期风格油画暗棕褐色旧版图高清，精细工笔，精细流畅、柔韧有力、充满韵律感。衣纹的勾勒，疏密有致。用色典雅，善于运用对比色，丰富和谐，头戴唐朝帽子",
     "tags": [
       "nature"
@@ -3508,7 +3508,7 @@
   },
   {
     "id": 353,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "A cinematic, hyper-realistic portrait of \n@simplyannisa\n, keeping her real facial features completely unchanged. The woman sits at a wooden table, leaning slightly forward, with her right forearm resting naturally on the surface. Her right hand gently holds a dark ceramic mug with the word “\n@simplyannisa\n” written on it. Her fingers are slender, relaxed, and slightly curved. Her left arm is bent at the elbow, resting casually on the table. She wears a dark gray, slightly loose long-sleeve Henley top with the top buttons undone, subtly revealing a delicate neckline. Her hair falls naturally around her shoulders, soft waves catching the light. Her gaze is directed to the side, away from the camera, carrying a thoughtful and mysterious expression. The lighting is soft and moody, emphasizing the texture of her hair and face while adding cinematic contrast and emotional depth. The portrait is shot at eye level with an 85mm lens effect and a shallow depth of field, keeping her face and upper body in sharp focus while the background softly blurs. The overall color grading is muted and cinematic, with cool tones, soft shadows, and a minimalist dark background.",
     "tags": [
       "minimalist",
@@ -4041,7 +4041,7 @@
   },
   {
     "id": 405,
-    "image": "loading.png",
+    "image": "loading.jpeg",
     "prompt": "Ultra-realistic full-body portrait of the attached image.\nThe person is interacting with {fictional character} in a {pose/interaction type}.  \nStudio or neutral environment, soft cinematic lighting, {optional color palette}.  \nThe person wears {clothing style and colors}, The fictional character retains its original appearance, including skin color, clothing, and signature features.  \nExpression and mood: {emotional tone}, captured in photorealistic textures, realistic lighting, cinematic composition, high fashion editorial quality.",
     "tags": [
       "character",
